@@ -171,10 +171,7 @@ cython_debug/
 .pypirc
 
 tmp/
-data/
 credentials/
 Untitled.ipynb
 .DS_Store 
 pyrightconfig.json
-portfolio_history.csv
-portfolio.db
