@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 from logging import warning, debug
 import os
 import re
@@ -5,12 +6,13 @@ import shutil
 import subprocess
 import tempfile
 from threading import Event
-from typing import cast
+from typing import cast, Sequence
 
 from icalendar import Calendar, cal
 import requests
 
 from team_utils import load_calendar, load_teams
+from time_util import parse_duration
 
 
 KNOWN_KEYS = {
@@ -95,11 +97,17 @@ def sha256_file(path: str) -> str:
     return result.stdout
 
 
-def sanitize_calendar(path) -> cal.Component:
+def sanitize_calendar(path: str, spoiler_free_period: timedelta) -> cal.Component:
     cal = load_calendar(path)
+    spoiler_free_period = parse_duration(team_config['spoiler_free_period'])
+
     sanitized_cal = Calendar()
-    for event in cal.walk('vevent'):
-        sanitized_cal.add_component(sanitize_event(event))
+    events = cast(list[cal.Event], cal.walk('vevent'))
+    for event in events:
+        if event.DT_START < (datetime.now() - spoiler_free_period):  # enough time has passed so no need to SCRUB_KEYS
+            sanitized_cal.add_component(event)
+        else:
+            sanitized_cal.add_component(sanitize_event(event))
 
     return sanitized_cal
 
@@ -114,7 +122,7 @@ def sync_calendar(team_config: dict[str, str]):
         return
 
     # Sanitize New Calendar
-    cal = sanitize_calendar(tmp_path)
+    cal = sanitize_calendar(tmp_path, parse_duration(team_config['spoiler_free_period']))
 
     # Write Calendars to Official Paths
     os.makedirs(os.path.dirname(team_config['path']), exist_ok=True)

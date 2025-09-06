@@ -5,48 +5,49 @@ Usage: python add_team.py "Team Name" "League" "Sport" "Calendar URL"
 """
 
 import sys
-from .team_utils import (
+from team_utils import (
     clean_calendar_path,
     load_teams,
-    validate_url,
     save_teams
 )
 
-def add_team(sport, league, team_name, calendar_url):
+
+"""
+"league": "La Liga",
+"name": "Real Madrid",
+"path": "data/soccer/laliga/real_madrid.ics",
+"sanitized_path": "data/soccer/laliga/no_spoilers_real_madrid.ics",
+"source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8633.ics",
+"spoiler_free_period": "7d",
+"sport": "Soccer"
+"""
+
+
+def upsert_team(sport: str, league: str, team_name: str, calendar_url: str, spoiler_free_period: str="365d"):
     """Add a new team to the configuration"""
-
-    # Validate inputs
-    if not all([team_name, league, sport, calendar_url]):
-        print("Error: All fields are required")
-        return False
-
-    if not validate_url(calendar_url):
-        print("Warning: URL doesn't appear to be a valid calendar URL")
-        response = input("Continue anyway? (y/N): ")
-        if response.lower() != 'y':
-            return False
-
     # Load existing teams
     teams_data = load_teams()
 
-    # Generate ID
+    # Generate paths
     cal_path = clean_calendar_path(sport, league, team_name)
     no_spoilers_cal_path = clean_calendar_path(sport, league, f'{team_name}_no_spoilers')
 
-
     # Check for duplicate IDs
     if cal_path in teams_data:
-        print(f"Error: Team ID '{cal_path}' already exists")
-        return False
+        print(f"UPDATING '{cal_path}'")
+    else:
+        print(f"ADDING '{cal_path}'")
+
 
     # Create new team entry
     new_team = {
+        "league": league,
+        "name": team_name,
         "path": cal_path,
         "sanitized_path": no_spoilers_cal_path,
-        "name": team_name,
-        "league": league,
+        "source_url": calendar_url,
+        "spoiler_free_period": spoiler_free_period,
         "sport": sport,
-        "source_url": calendar_url
     }
 
     # Add to teams list
@@ -56,8 +57,8 @@ def add_team(sport, league, team_name, calendar_url):
     save_teams(teams_data)
 
     print(f"✅ Added team: {team_name} ({league} - {sport})")
-    print(f"   ID: {team_id}")
-    print(f"   Calendar will be available at: calendars/{team_id}.ics")
+    print(f"   Calendar will be available at: {cal_path}")
+    print(f"                             and: {no_spoilers_cal_path}")
 
     return True
 
@@ -73,43 +74,53 @@ def list_teams():
     print()
 
     current_sport = None
-    for team in teams_data['teams']:
+    for _, team in teams_data.items():
         if team['sport'] != current_sport:
             current_sport = team['sport']
             print(f"🏈 {current_sport.upper()}")
 
-        print(f"   {team['name']} ({team['league']}) - {team['id']}")
+        print(f"   {team['sport']} {team['league']} {team['name']}")
     print()
 
+
+def print_usage():
+    print("Usage: python upsert_team.py <command> [args]")
+    print()
+    print("Commands:")
+    print("  upsert <sport> <league> <name> <ics url> [spoiler_free_period]")
+    print("  list")
+    print()
+    print("Examples:")
+    print('  python upsert_team.py add "Basketball" "NBA" "LA Lakers" "https://calendar.google.com/..."')
+    print("  python upsert_team.py list")
+
+
+# TODO: Modify this to use some kind of arg parsing library
 def main():
-    if len(sys.argv) == 1:
-        print("Usage: python add_team.py <command> [args]")
-        print()
-        print("Commands:")
-        print("  add <team_name> <league> <sport> <calendar_url>")
-        print("  list")
-        print()
-        print("Examples:")
-        print('  python add_team.py add "LA Lakers" "NBA" "Basketball" "https://calendar.google.com/..."')
-        print("  python add_team.py list")
+    argc = len(sys.argv)
+    if argc == 1:
+        print_usage()
         sys.exit(1)
 
     command = sys.argv[1].lower()
 
     if command == "list":
         list_teams()
-    elif command == "add":
-        if len(sys.argv) != 6:
-            print("Error: add command requires exactly 4 arguments")
-            print('Usage: python add_team.py add "Team Name" "League" "Sport" "Calendar URL"')
+    elif command == "upsert":
+        if argc != 6 and argc != 7:
+            print("Error: add command requires 4 or 5 arguments")
+            print_usage()
             sys.exit(1)
 
-        team_name = sys.argv[2]
+        sport = sys.argv[2]
         league = sys.argv[3]
-        sport = sys.argv[4]
+        team_name = sys.argv[4]
         calendar_url = sys.argv[5]
+        spoiler_free_period = "365d"
+        if argc == 7:
+            spoiler_free_period = sys.argv[6]
 
-        if add_team(team_name, league, sport, calendar_url):
+        if upsert_team(sport, league, team_name, calendar_url, spoiler_free_period):
             print()
             print("Next steps:")
             print("1. git add data/teams.json")

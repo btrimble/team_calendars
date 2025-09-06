@@ -1,32 +1,38 @@
 {
-  "data/soccer/laliga/real_madrid.ics": {
-    "league": "La Liga",
-    "name": "Real Madrid",
-    "path": "data/soccer/laliga/real_madrid.ics",
-    "sanitized_path": "data/soccer/laliga/no_spoilers_real_madrid.ics",
-    "season": "2025-26",
-    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8633.ics",
-    "spoiler_free_period": "7d",
-    "sport": "Soccer"
-  },
   "data/mbb/ncaa/fighting_illini.ics": {
     "league": "ncaa",
     "name": "Fighting Illini",
     "path": "data/mbb/ncaa/fighting_illini.ics",
     "sanitized_path": "data/mbb/ncaa/no_spoilers_fighting_illini.ics",
-    "season": "2025-26",
     "source_url": "https://fightingillini.com/calendar.ashx/calendar.ics?sport_id=5&_=cmf3hbhh900013b9xuu17kd7a",
     "spoiler_free_period": "7d",
     "sport": "mbb"
   },
-  "data/mbb/ncaa/2425_fighting_illini.ics": {
-    "league": "ncaa",
-    "name": "Fighting Illini",
-    "path": "data/mbb/ncaa/2425_fighting_illini.ics",
-    "sanitized_path": "data/mbb/ncaa/no_spoilers_2425_fighting_illini.ics",
-    "season": "2024-25",
-    "source_url": "https://fightingillini.com/calendar.ashx/calendar.ics?sport_id=5&_=cmf3hr4er00013ba47dkgcfu4",
+  "data/soccer/laliga/real_madrid.ics": {
+    "league": "La Liga",
+    "name": "Real Madrid",
+    "path": "data/soccer/laliga/real_madrid.ics",
+    "sanitized_path": "data/soccer/laliga/no_spoilers_real_madrid.ics",
+    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8633.ics",
     "spoiler_free_period": "7d",
-    "sport": "mbb"
+    "sport": "Soccer"
+  },
+  "soccer/laliga/barca.ics": {
+    "league": "laliga",
+    "name": "barca",
+    "path": "soccer/laliga/barca.ics",
+    "sanitized_path": "soccer/laliga/barca_no_spoilers.ics",
+    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8634.ics",
+    "spoiler_free_period": "7d",
+    "sport": "soccer"
+  },
+  "soccer/ucl/combined.ics": {
+    "league": "ucl",
+    "name": "combined",
+    "path": "soccer/ucl/combined.ics",
+    "sanitized_path": "soccer/ucl/combined_no_spoilers.ics",
+    "source_url": "https://calendar.uefa.com/v1/calendar.ics\\?competitionId\\=1\\&countryCode\\=US\\&language\\=EN\\&reminder\\=60\\&teamId\\=50051%2C50080%2C50138%2C52747%2C52919%2C7889",
+    "spoiler_free_period": "7d",
+    "sport": "soccer"
   }
 }
