@@ -14,11 +14,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install requests icalendar
+        run: pip install -r requirements.txt
       - name: Sync calendars
         run: python scripts/sync_calendars.py
-      - name: Generate site
-        run: python scripts/generate_site.py
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"

@@ -8,6 +8,15 @@
     "spoiler_free_period": "7d",
     "sport": "mbb"
   },
+  "data/soccer/laliga/barca.ics": {
+    "league": "laliga",
+    "name": "barca",
+    "path": "data/soccer/laliga/barca.ics",
+    "sanitized_path": "data/soccer/laliga/no_spoilers_barca.ics",
+    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8634.ics",
+    "spoiler_free_period": "7d",
+    "sport": "soccer"
+  },
   "data/soccer/laliga/real_madrid.ics": {
     "league": "La Liga",
     "name": "Real Madrid",
@@ -17,12 +26,39 @@
     "spoiler_free_period": "7d",
     "sport": "Soccer"
   },
-  "data/soccer/laliga/barca.ics": {
-    "league": "laliga",
-    "name": "barca",
-    "path": "data/soccer/laliga/barca.ics",
-    "sanitized_path": "data/soccer/laliga/no_spoilers_barca.ics",
-    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8634.ics",
+  "data/soccer/premier_league/liverpool.ics": {
+    "league": "premier_league",
+    "name": "liverpool",
+    "path": "data/soccer/premier_league/liverpool.ics",
+    "sanitized_path": "data/soccer/premier_league/no_spoilers_liverpool.ics",
+    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8650.ics",
+    "spoiler_free_period": "7d",
+    "sport": "soccer"
+  },
+  "data/soccer/premier_league/mancity.ics": {
+    "league": "premier_league",
+    "name": "mancity",
+    "path": "data/soccer/premier_league/mancity.ics",
+    "sanitized_path": "data/soccer/premier_league/no_spoilers_mancity.ics",
+    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8456.ics",
+    "spoiler_free_period": "7d",
+    "sport": "soccer"
+  },
+  "data/soccer/serie_a/ac_milan.ics": {
+    "league": "serie_a",
+    "name": "ac_milan",
+    "path": "data/soccer/serie_a/ac_milan.ics",
+    "sanitized_path": "data/soccer/serie_a/no_spoilers_ac_milan.ics",
+    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8564.ics",
+    "spoiler_free_period": "7d",
+    "sport": "soccer"
+  },
+  "data/soccer/serie_a/inter.ics": {
+    "league": "serie_a",
+    "name": "inter",
+    "path": "data/soccer/serie_a/inter.ics",
+    "sanitized_path": "data/soccer/serie_a/no_spoilers_inter.ics",
+    "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8636.ics",
     "spoiler_free_period": "7d",
     "sport": "soccer"
   },
