@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Sync calendars
-        run: python scripts/sync_calendars.py
+        run: python src/sync_calendars.py
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
