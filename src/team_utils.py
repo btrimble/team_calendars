@@ -17,7 +17,7 @@ def teams_file_path() -> str:
 def clean_calendar_path(sport: str, league: str, name: str):
     """Generate a clean ID from team name and league"""
     sport, league, name = (re.sub(r'^\w\s-_', '', x) for x in (sport, league, name))
-    path = os.path.join(sport, league, name).lower()
+    path = os.path.join('data', sport, league, name).lower()
     path = path + '.ics'
     return re.sub(r'[-\s]+', '_', path)
 

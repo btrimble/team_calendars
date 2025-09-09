@@ -30,7 +30,7 @@ def upsert_team(sport: str, league: str, team_name: str, calendar_url: str, spoi
 
     # Generate paths
     cal_path = clean_calendar_path(sport, league, team_name)
-    no_spoilers_cal_path = clean_calendar_path(sport, league, f'{team_name}_no_spoilers')
+    no_spoilers_cal_path = clean_calendar_path(sport, league, f'no_spoilers_{team_name}')
 
     # Check for duplicate IDs
     if cal_path in teams_data:

@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from logging import warning, debug
 import os
 import re
@@ -98,13 +98,16 @@ def sha256_file(path: str) -> str:
 
 
 def sanitize_calendar(path: str, spoiler_free_period: timedelta) -> cal.Component:
-    cal = load_calendar(path)
-    spoiler_free_period = parse_duration(team_config['spoiler_free_period'])
+    calendar = load_calendar(path)
 
     sanitized_cal = Calendar()
-    events = cast(list[cal.Event], cal.walk('vevent'))
+    events = cast(list[cal.Event], calendar.walk('vevent'))
     for event in events:
-        if event.DT_START < (datetime.now() - spoiler_free_period):  # enough time has passed so no need to SCRUB_KEYS
+        dtstart = event.DTSTART
+        if isinstance(dtstart, date):
+                # Convert a date object to a datetime object (at midnight)
+                dtstart = datetime(dtstart.year, dtstart.month, dtstart.day)
+        if dtstart is None or dtstart < (datetime.now() - spoiler_free_period):  # enough time has passed so no need to SCRUB_KEYS
             sanitized_cal.add_component(event)
         else:
             sanitized_cal.add_component(sanitize_event(event))
@@ -113,6 +116,7 @@ def sanitize_calendar(path: str, spoiler_free_period: timedelta) -> cal.Componen
 
 
 def sync_calendar(team_config: dict[str, str]):
+    print(team_config['path'])
     # Download source calendar
     tmp_path = fetch_calendar(team_config)
 

@@ -17,21 +17,21 @@
     "spoiler_free_period": "7d",
     "sport": "Soccer"
   },
-  "soccer/laliga/barca.ics": {
+  "data/soccer/laliga/barca.ics": {
     "league": "laliga",
     "name": "barca",
-    "path": "soccer/laliga/barca.ics",
-    "sanitized_path": "soccer/laliga/barca_no_spoilers.ics",
+    "path": "data/soccer/laliga/barca.ics",
+    "sanitized_path": "data/soccer/laliga/no_spoilers_barca.ics",
     "source_url": "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8634.ics",
     "spoiler_free_period": "7d",
     "sport": "soccer"
   },
-  "soccer/ucl/combined.ics": {
+  "data/soccer/ucl/combined.ics": {
     "league": "ucl",
     "name": "combined",
-    "path": "soccer/ucl/combined.ics",
-    "sanitized_path": "soccer/ucl/combined_no_spoilers.ics",
-    "source_url": "https://calendar.uefa.com/v1/calendar.ics\\?competitionId\\=1\\&countryCode\\=US\\&language\\=EN\\&reminder\\=60\\&teamId\\=50051%2C50080%2C50138%2C52747%2C52919%2C7889",
+    "path": "data/soccer/ucl/combined.ics",
+    "sanitized_path": "data/soccer/ucl/no_spoilers_combined.ics",
+    "source_url": "https://calendar.uefa.com/v1/calendar.ics?competitionId=1&countryCode=US&language=EN&reminder=60&teamId=50051%2C50080%2C50138%2C52747%2C52919%2C7889",
     "spoiler_free_period": "7d",
     "sport": "soccer"
   }

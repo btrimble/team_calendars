@@ -1,0 +1,872 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Angstadt//biweekly 0.6.6//EN
+X-WR-CALNAME:UEFA Champions League
+BEGIN:VEVENT
+SUMMARY:First qualifying round draw
+LOCATION:Live on UEFA.com
+DESCRIPTION:UEFA Champions League\n\n
+DTSTART:20250617T120000Z
+DTEND:20250617T130000Z
+UID:ac3702486965587a46ec0945fe9b527a
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250617T110000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=First qualify
+ ing round draw ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Second qualifying round draw
+LOCATION:Live on UEFA.com
+DESCRIPTION:UEFA Champions League\n\n
+DTSTART:20250618T100000Z
+DTEND:20250618T110000Z
+UID:2ddead562e4b550ddc4cfa3e7751b8c6
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250618T090000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Second qualif
+ ying round draw ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Third qualifying round draw
+LOCATION:Live on UEFA.com
+DESCRIPTION:UEFA Champions League\n\n
+DTSTART:20250721T100000Z
+DTEND:20250721T110000Z
+UID:5e3b08cd42a5c16c9675f8a667235084
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250721T090000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Third qualify
+ ing round draw ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Play-off round draw
+LOCATION:Live on UEFA.com
+DESCRIPTION:UEFA Champions League\n\n
+DTSTART:20250804T100000Z
+DTEND:20250804T110000Z
+UID:ccb412ca957f2a87c6df622a684083cd
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250804T090000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Play-off roun
+ d draw ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League phase draw
+LOCATION:Live on UEFA.com
+DESCRIPTION:UEFA Champions League\n\n
+DTSTART:20250828T160000Z
+DTEND:20250828T170000Z
+UID:eb3dc05019cc69b36bc3add173a7c232
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250828T150000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=League phase 
+ draw ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid v Marseille
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\nLe
+ ague phase\, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/2045903
+ /\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com/ue
+ fachampionsleague/\n\n
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+UID:be1c6d580f98aee6950a1682433d0ad3
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250916T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Real Madrid v 
+ Marseille ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ajax v Inter
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Johan Cruijff ArenA\, Amsterdam\n\nUEFA Champions League\nLeagu
+ e phase\, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/2045912/\n
+ \nSee the full match calendar for all fixtures\nhttps://www.uefa.com/uefac
+ hampionsleague/\n\n
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+UID:4001bc3955b1e4693147d25dc848ddce
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250917T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Ajax v Inter 
+ ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris v Atalanta
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phase
+ \, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/2045909/\n\nSee t
+ he full match calendar for all fixtures\nhttps://www.uefa.com/uefachampion
+ sleague/\n\n
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+UID:c1a8011a53ffe9906f0281a6b2533bd5
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250917T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Paris v Atala
+ nta ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool v Atleti
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, MD
+ 1\n\nhttps://www.uefa.com/uefachampionsleague/match/2045911/\n\nSee the fu
+ ll match calendar for all fixtures\nhttps://www.uefa.com/uefachampionsleag
+ ue/\n\n
+DTSTART:20250917T190000Z
+DTEND:20250917T210000Z
+UID:d371ee9e44df036bfe0398ae33221706
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250917T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Liverpool v A
+ tleti ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcastle v Barcelona
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:St James' Park\, Newcastle\n\nUEFA Champions League\nLeague pha
+ se\, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/2045920/\n\nSee 
+ the full match calendar for all fixtures\nhttps://www.uefa.com/uefachampio
+ nsleague/\n\n
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+UID:117171b10d7b6e6ceb0b710bc51515d1
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250918T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Newcastle v B
+ arcelona ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man City v Napoli
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leagu
+ e\nLeague phase\, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/20
+ 45915/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.c
+ om/uefachampionsleague/\n\n
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+UID:206bcecbfacc0607822228acc68d579d
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250918T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Man City v Na
+ poli ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kairat Almaty v Real Madrid
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Almaty Ortalyk Stadion\, Almaty\n\nUEFA Champions League\nLeagu
+ e phase\, MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/2045929/\n
+ \nSee the full match calendar for all fixtures\nhttps://www.uefa.com/uefac
+ hampionsleague/\n\n
+DTSTART:20250930T164500Z
+DTEND:20250930T184500Z
+UID:94e08eebd81077049b2181a8fcf6f0d9
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250930T154500Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Kairat Almaty 
+ v Real Madrid ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Galatasaray v Liverpool
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Ali Sami Yen Spor Kompleksi\, Istanbul\n\nUEFA Champions League
+ \nLeague phase\, MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/204
+ 5927/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.co
+ m/uefachampionsleague/\n\n
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+UID:4bbec96b485969fe9dcd89997d768e64
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250930T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Galatasaray v 
+ Liverpool ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter v Slavia Praha
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase\
+ , MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/2045921/\n\nSee th
+ e full match calendar for all fixtures\nhttps://www.uefa.com/uefachampions
+ league/\n\n
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+UID:88ff212bc30900fbeb9c98f59cd0b7f8
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20250930T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Inter v Slavi
+ a Praha ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monaco v Man City
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Stade Louis II\, Monaco\n\nUEFA Champions League\nLeague phase\
+ , MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/2045934/\n\nSee th
+ e full match calendar for all fixtures\nhttps://www.uefa.com/uefachampions
+ league/\n\n
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+UID:51a8e40c2a9de7907ab231fb960cf515
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251001T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Monaco v Man 
+ City ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona v Paris
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, M
+ D2\n\nhttps://www.uefa.com/uefachampionsleague/match/2045938/\n\nSee the f
+ ull match calendar for all fixtures\nhttps://www.uefa.com/uefachampionslea
+ gue/\n\n
+DTSTART:20251001T190000Z
+DTEND:20251001T210000Z
+UID:779af349d1b09d50bf139cfbab7d3454
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251001T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Barcelona v P
+ aris ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona v Olympiacos
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, M
+ D3\n\nhttps://www.uefa.com/uefachampionsleague/match/2045939/\n\nSee the f
+ ull match calendar for all fixtures\nhttps://www.uefa.com/uefachampionslea
+ gue/\n\n
+DTSTART:20251021T164500Z
+DTEND:20251021T184500Z
+UID:d96874f4f5a5d4c18194cfb3353116b3
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251021T154500Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Barcelona v O
+ lympiacos ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen v Paris
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:BayArena\, Leverkusen\n\nUEFA Champions League\nLeague phase\, 
+ MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/2045941/\n\nSee the 
+ full match calendar for all fixtures\nhttps://www.uefa.com/uefachampionsle
+ ague/\n\n
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+UID:5e67451b00f08c4cfba3d953146bfd03
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251021T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Leverkusen v 
+ Paris ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union SG v Inter
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:RSC Anderlecht Stadium\, Brussels\n\nUEFA Champions League\nLea
+ gue phase\, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/2045945/
+ \n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com/uef
+ achampionsleague/\n\n
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+UID:807f290c5a3ed1d99a26118263383864
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251021T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Union SG v In
+ ter ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villarreal v Man City
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Estadio de la Cerámica\, Villarreal\n\nUEFA Champions League\nL
+ eague phase\, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/204594
+ 2/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com/u
+ efachampionsleague/\n\n
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+UID:f760e08d352bf68824448c4d28b9faf3
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251021T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Villarreal v 
+ Man City ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankfurt v Liverpool
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Frankfurt Stadion\, Frankfurt am Main\n\nUEFA Champions League\
+ nLeague phase\, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/2045
+ 950/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com
+ /uefachampionsleague/\n\n
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+UID:5427101a6db5a0a1751925d407a09685
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251022T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Frankfurt v L
+ iverpool ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid v Juventus
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\nLe
+ ague phase\, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/2045955
+ /\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com/ue
+ fachampionsleague/\n\n
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+UID:6b3f2dda82933a2cb73c3c3f322e1d67
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251022T180000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Real Madrid v 
+ Juventus ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool v Real Madrid
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, MD
+ 4\n\nhttps://www.uefa.com/uefachampionsleague/match/2045958/\n\nSee the fu
+ ll match calendar for all fixtures\nhttps://www.uefa.com/uefachampionsleag
+ ue/\n\n
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+UID:66e51c2642a724bc6fdf71f6da7d28e7
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251104T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Liverpool v R
+ eal Madrid ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris v Bayern München
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phase
+ \, MD4\n\nhttps://www.uefa.com/uefachampionsleague/match/2045957/\n\nSee t
+ he full match calendar for all fixtures\nhttps://www.uefa.com/uefachampion
+ sleague/\n\n
+DTSTART:20251104T200000Z
+DTEND:20251104T220000Z
+UID:745618746053de2c3cd3be6efadb902c
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251104T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Paris v Bayer
+ n München ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Brugge v Barcelona
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Jan Breydelstadion\, Bruges\n\nUEFA Champions League\nLeague ph
+ ase\, MD4\n\nhttps://www.uefa.com/uefachampionsleague/match/2045969/\n\nSe
+ e the full match calendar for all fixtures\nhttps://www.uefa.com/uefachamp
+ ionsleague/\n\n
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+UID:3872599dad5d84b72650ac4a534eef51
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251105T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Club Brugge v 
+ Barcelona ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man City v B. Dortmund
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leagu
+ e\nLeague phase\, MD4\n\nhttps://www.uefa.com/uefachampionsleague/match/20
+ 45966/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.c
+ om/uefachampionsleague/\n\n
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+UID:ca7f47b86ed25a3424894818f41758d7
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251105T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Man City v B. 
+ Dortmund ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter v Kairat Almaty
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase\
+ , MD4\n\nhttps://www.uefa.com/uefachampionsleague/match/2045967/\n\nSee th
+ e full match calendar for all fixtures\nhttps://www.uefa.com/uefachampions
+ league/\n\n
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+UID:ef57334d4d72c702a9b5c83e4467f723
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251105T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Inter v Kaira
+ t Almaty ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man City v Leverkusen
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leagu
+ e\nLeague phase\, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/20
+ 45975/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.c
+ om/uefachampionsleague/\n\n
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+UID:4fffc42af827999678dd03db2702fa91
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251125T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Man City v Le
+ verkusen ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea v Barcelona
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Stamford Bridge\, London\n\nUEFA Champions League\nLeague phase
+ \, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2045976/\n\nSee t
+ he full match calendar for all fixtures\nhttps://www.uefa.com/uefachampion
+ sleague/\n\n
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+UID:b57fa8f7fb7964d5e1e3ac16caef4dcc
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251125T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Chelsea v Bar
+ celona ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris v Tottenham
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phase
+ \, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2045984/\n\nSee t
+ he full match calendar for all fixtures\nhttps://www.uefa.com/uefachampion
+ sleague/\n\n
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+UID:020cc78f18f857610868bd698095e93a
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251126T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Paris v Totte
+ nham ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiacos v Real Madrid
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Stadio Georgios Karaiskakis\, Piraeus\n\nUEFA Champions League\
+ nLeague phase\, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2045
+ 990/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com
+ /uefachampionsleague/\n\n
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+UID:514dae5cd097eb01ba3a8e0135903192
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251126T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Olympiacos v 
+ Real Madrid ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool v PSV
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, MD
+ 5\n\nhttps://www.uefa.com/uefachampionsleague/match/2045985/\n\nSee the fu
+ ll match calendar for all fixtures\nhttps://www.uefa.com/uefachampionsleag
+ ue/\n\n
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+UID:51b21659225006aa9fbef9ae3e972e33
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251126T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Liverpool v P
+ SV ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atleti v Inter
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Estadio Metropolitano\, Madrid\n\nUEFA Champions League\nLeague 
+ phase\, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2045987/\n\n
+ See the full match calendar for all fixtures\nhttps://www.uefa.com/uefacha
+ mpionsleague/\n\n
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+UID:68b972d7d6f971cc4df3acd9ebedcaf2
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251126T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Atleti v Inte
+ r ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter v Liverpool
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase\
+ , MD6\n\nhttps://www.uefa.com/uefachampionsleague/match/2045994/\n\nSee th
+ e full match calendar for all fixtures\nhttps://www.uefa.com/uefachampions
+ league/\n\n
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+UID:353ace031e9ec24bad528b1bdae2bbaa
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251209T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Inter v Liver
+ pool ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona v Frankfurt
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, M
+ D6\n\nhttps://www.uefa.com/uefachampionsleague/match/2045995/\n\nSee the f
+ ull match calendar for all fixtures\nhttps://www.uefa.com/uefachampionslea
+ gue/\n\n
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+UID:e5796a998b94b94c9b4c63ec48f2d885
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251209T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Barcelona v F
+ rankfurt ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid v Man City
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\nLe
+ ague phase\, MD6\n\nhttps://www.uefa.com/uefachampionsleague/match/2046010
+ /\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com/ue
+ fachampionsleague/\n\n
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+UID:4c3272eeda1b2dc80bd1fbdbffe4f488
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251210T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Real Madrid v 
+ Man City ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Athletic Club v Paris
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Estadio de San Mamés\, Bilbao\n\nUEFA Champions League\nLeague 
+ phase\, MD6\n\nhttps://www.uefa.com/uefachampionsleague/match/2046009/\n\n
+ See the full match calendar for all fixtures\nhttps://www.uefa.com/uefacha
+ mpionsleague/\n\n
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+UID:f6d0b76947e7bec78417c5135618d210
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20251210T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Athletic Club 
+ v Paris ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodø/Glimt v Man City
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Aspmyra\, Bodø\n\nUEFA Champions League\nLeague phase\, MD7\n\n
+ https://www.uefa.com/uefachampionsleague/match/2046017/\n\nSee the full ma
+ tch calendar for all fixtures\nhttps://www.uefa.com/uefachampionsleague/\n
+ \n
+DTSTART:20260120T174500Z
+DTEND:20260120T194500Z
+UID:4b53fc1b86ef1bffc2836bf3874a1e5d
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260120T164500Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Bodø/Glimt v 
+ Man City ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid v Monaco
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\nLe
+ ague phase\, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/2046011
+ /\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.com/ue
+ fachampionsleague/\n\n
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+UID:d26c3c7f5ba41535e90700b79ea3f26b
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260120T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Real Madrid v 
+ Monaco ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inter v Arsenal
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase\
+ , MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/2046012/\n\nSee th
+ e full match calendar for all fixtures\nhttps://www.uefa.com/uefachampions
+ league/\n\n
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+UID:e38c022c9cf05398c62c57a2cf714899
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260120T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Inter v Arsen
+ al ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporting CP v Paris
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Estádio José Alvalade\, Lisbon\n\nUEFA Champions League\nLeague 
+ phase\, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/2046015/\n\n
+ See the full match calendar for all fixtures\nhttps://www.uefa.com/uefacha
+ mpionsleague/\n\n
+DTSTART:20260120T200000Z
+DTEND:20260120T220000Z
+UID:f3c3a5dee86ab756d760fe6e57d8ecfc
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260120T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Sporting CP v 
+ Paris ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marseille v Liverpool
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Stade de Marseille\, Marseille\n\nUEFA Champions League\nLeague 
+ phase\, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/2046024/\n\n
+ See the full match calendar for all fixtures\nhttps://www.uefa.com/uefacha
+ mpionsleague/\n\n
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+UID:d88c9d80d7ccb961f7ee415b7be1590d
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260121T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Marseille v L
+ iverpool ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slavia Praha v Barcelona
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Eden Arena\, Prague\n\nUEFA Champions League\nLeague phase\, MD
+ 7\n\nhttps://www.uefa.com/uefachampionsleague/match/2046023/\n\nSee the fu
+ ll match calendar for all fixtures\nhttps://www.uefa.com/uefachampionsleag
+ ue/\n\n
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+UID:da8585efff9542bc26ba45bc43b3dfe5
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260121T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Slavia Praha 
+ v Barcelona ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benfica v Real Madrid
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Estádio do SL Benfica\, Lisbon\n\nUEFA Champions League\nLeague 
+ phase\, MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/2046037/\n\n
+ See the full match calendar for all fixtures\nhttps://www.uefa.com/uefacha
+ mpionsleague/\n\n
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+UID:0b3cd8833ca778db4f7c047a471be6e0
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260128T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Benfica v Rea
+ l Madrid ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris v Newcastle
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phase
+ \, MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/2046029/\n\nSee t
+ he full match calendar for all fixtures\nhttps://www.uefa.com/uefachampion
+ sleague/\n\n
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+UID:176663d71ca510652e50c1c5ba515d49
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260128T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Paris v Newca
+ stle ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona v Copenhagen
+LOCATION:Disney+\, Paramount+
+DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, M
+ D8\n\nhttps://www.uefa.com/uefachampionsleague/match/2046033/\n\nSee the f
+ ull match calendar for all fixtures\nhttps://www.uefa.com/uefachampionslea
+ gue/\n\n
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+UID:7eca82bef1a92ca904094a3b612a05c8
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260128T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Barcelona v C
+ openhagen ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liverpool v Qarabağ
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, MD
+ 8\n\nhttps://www.uefa.com/uefachampionsleague/match/2046031/\n\nSee the fu
+ ll match calendar for all fixtures\nhttps://www.uefa.com/uefachampionsleag
+ ue/\n\n
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+UID:8fe9cc37cfc8fc57d2bdb3b06ee67298
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260128T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Liverpool v Q
+ arabağ ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man City v Galatasaray
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leagu
+ e\nLeague phase\, MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/20
+ 46030/\n\nSee the full match calendar for all fixtures\nhttps://www.uefa.c
+ om/uefachampionsleague/\n\n
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+UID:915801e052298efdd705a00205973887
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260128T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=Man City v Ga
+ latasaray ]
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B. Dortmund v Inter
+LOCATION:Paramount+\, Disney+
+DESCRIPTION:BVB Stadion Dortmund\, Dortmund\n\nUEFA Champions League\nLeagu
+ e phase\, MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/2046032/\n
+ \nSee the full match calendar for all fixtures\nhttps://www.uefa.com/uefac
+ hampionsleague/\n\n
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+UID:c2c18e1b7fe5d161ea574aae3d723fda
+DTSTAMP:20250909T230000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20260128T190000Z
+DESCRIPTION:biweekly.property.Summary [ parameters={} | value=B. Dortmund v 
+ Inter ]
+END:VALARM
+END:VEVENT
+END:VCALENDAR
