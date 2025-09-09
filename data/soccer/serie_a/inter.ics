@@ -1,0 +1,1082 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//FOTMOB//FOTMOB 1.0//EN
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+VERSION:2.0
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:Inter fixtures
+X-WR-CALNAME:Inter
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4892795 \nClub Friendlies
+DTEND:20250808T194500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250808T180000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stade Louis-II\, 7\, avenue des Castelans\, Monaco\, MCO
+SEQUENCE:0
+SUMMARY:⚽️ Monaco - Inter  (1-2)
+TRANSP:TRANSPARENT
+UID:4892795-8636@fotmob.com
+URL:https://www.fotmob.com/match/4892795
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Monaco - Inter starting in 15 minutes. Notifications can be
+  turned off in calendar settings
+SUMMARY:⚽️ Monaco - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4893265 \nClub Friendlies
+DTEND:20250812T204500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250812T190000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:U-Power Stadium\, Via Franco Tognini\, Monza\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Monza - Inter  (5-7)
+TRANSP:TRANSPARENT
+UID:4893265-8636@fotmob.com
+URL:https://www.fotmob.com/match/4893265
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Monza - Inter starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Monza - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4893266 \nClub Friendlies
+DTEND:20250816T201500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250816T183000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Comunale San Nicola\, Strada Provinciale Modugno-Carbonara
+ \, Bari\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Olympiacos  (2-0)
+TRANSP:TRANSPARENT
+UID:4893266-8636@fotmob.com
+URL:https://www.fotmob.com/match/4893266
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Olympiacos starting in 15 minutes. Notifications ca
+ n be turned off in calendar settings
+SUMMARY:⚽️ Inter - Olympiacos starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803041 \nSerie A
+DTEND:20250825T203000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250825T184500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Torino  (5-0)
+TRANSP:TRANSPARENT
+UID:4803041-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803041
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Torino starting in 15 minutes. Notifications can be
+  turned off in calendar settings
+SUMMARY:⚽️ Inter - Torino starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803050 \nSerie A
+DTEND:20250831T203000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250831T184500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Udinese  (1-2)
+TRANSP:TRANSPARENT
+UID:4803050-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803050
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Udinese starting in 15 minutes. Notifications can b
+ e turned off in calendar settings
+SUMMARY:⚽️ Inter - Udinese starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803061 \nSerie A
+DTEND:20250913T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250913T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Allianz Stadium
+SEQUENCE:0
+SUMMARY:⚽️ Juventus - Inter
+TRANSP:TRANSPARENT
+UID:4803061-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803061
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Juventus - Inter starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Juventus - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947129 \nChampions League
+DTEND:20250917T204500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250917T190000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Johan Cruijff ArenA\, ArenA Boulevard 1\, Amsterdam\, NLD
+SEQUENCE:0
+SUMMARY:⚽️ Ajax - Inter
+TRANSP:TRANSPARENT
+UID:4947129-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947129
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Ajax - Inter starting in 15 minutes. Notifications can be t
+ urned off in calendar settings
+SUMMARY:⚽️ Ajax - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803074 \nSerie A
+DTEND:20250921T203000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250921T184500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Sassuolo
+TRANSP:TRANSPARENT
+UID:4803074-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803074
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Sassuolo starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Inter - Sassuolo starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803078 \nSerie A
+DTEND:20250927T203000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250927T184500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Unipol Domus\, Via Raimondo Carta Raspi\, Cagliari\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Cagliari - Inter
+TRANSP:TRANSPARENT
+UID:4803078-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803078
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Cagliari - Inter starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Cagliari - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947128 \nChampions League
+DTEND:20250930T204500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20250930T190000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Slavia Prague
+TRANSP:TRANSPARENT
+UID:4947128-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947128
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Slavia Prague starting in 15 minutes. Notifications
+  can be turned off in calendar settings
+SUMMARY:⚽️ Inter - Slavia Prague starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803091 \nSerie A
+DTEND:20251004T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251004T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Cremonese
+TRANSP:TRANSPARENT
+UID:4803091-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803091
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Cremonese starting in 15 minutes. Notifications can
+  be turned off in calendar settings
+SUMMARY:⚽️ Inter - Cremonese starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803106 \nSerie A
+DTEND:20251018T203000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251018T184500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 2 / Via del Foro Italico
+ \, Roma\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Roma - Inter
+TRANSP:TRANSPARENT
+UID:4803106-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Roma - Inter starting in 15 minutes. Notifications can be t
+ urned off in calendar settings
+SUMMARY:⚽️ Roma - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947131 \nChampions League
+DTEND:20251021T204500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251021T190000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Lotto Park\, Avenue Théo Verbeeck 2\, Bruxelles (Brussel)\, BEL
+SEQUENCE:0
+SUMMARY:⚽️ Union St.Gilloise - Inter
+TRANSP:TRANSPARENT
+UID:4947131-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947131
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Union St.Gilloise - Inter starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Union St.Gilloise - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803114 \nSerie A
+DTEND:20251025T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251025T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Diego Armando Maradona\, Pizzale Vincenzo Tecchio\, Napoli
+ \, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Napoli - Inter
+TRANSP:TRANSPARENT
+UID:4803114-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Napoli - Inter starting in 15 minutes. Notifications can be
+  turned off in calendar settings
+SUMMARY:⚽️ Napoli - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803123 \nSerie A
+DTEND:20251029T213000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251029T194500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Fiorentina
+TRANSP:TRANSPARENT
+UID:4803123-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803123
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Fiorentina starting in 15 minutes. Notifications ca
+ n be turned off in calendar settings
+SUMMARY:⚽️ Inter - Fiorentina starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803137 \nSerie A
+DTEND:20251102T131500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251102T113000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Marcantonio Bentegodi\, Piazzale Olimpia\, Verona\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Hellas Verona - Inter
+TRANSP:TRANSPARENT
+UID:4803137-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803137
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Hellas Verona - Inter starting in 15 minutes. Notifications
+  can be turned off in calendar settings
+SUMMARY:⚽️ Hellas Verona - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947130 \nChampions League
+DTEND:20251105T214500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251105T200000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Kairat Almaty
+TRANSP:TRANSPARENT
+UID:4947130-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947130
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Kairat Almaty starting in 15 minutes. Notifications
+  can be turned off in calendar settings
+SUMMARY:⚽️ Inter - Kairat Almaty starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803142 \nSerie A
+DTEND:20251109T213000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251109T194500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Lazio
+TRANSP:TRANSPARENT
+UID:4803142-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803142
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Lazio starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Inter - Lazio starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803152 \nSerie A
+DTEND:20251123T213000Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251123T194500Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Milan
+TRANSP:TRANSPARENT
+UID:4803152-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803152
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Milan starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Inter - Milan starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947127 \nChampions League
+DTEND:20251126T214500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251126T200000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Riyadh Air Metropolitano
+SEQUENCE:0
+SUMMARY:⚽️ Atletico Madrid - Inter
+TRANSP:TRANSPARENT
+UID:4947127-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947127
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Atletico Madrid - Inter starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:⚽️ Atletico Madrid - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803166 \nSerie A
+DTEND:20251130T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251130T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Romeo Anconetani
+SEQUENCE:0
+SUMMARY:⚽️ Pisa - Inter
+TRANSP:TRANSPARENT
+UID:4803166-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803166
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Pisa - Inter starting in 15 minutes. Notifications can be t
+ urned off in calendar settings
+SUMMARY:⚽️ Pisa - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4935212 \nCoppa Italia
+DTEND:20251203T211500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251203T193000Z
+LAST-MODIFIED:20250909T232323Z
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Hellas Verona/Venezia
+TRANSP:TRANSPARENT
+UID:4935212-8636@fotmob.com
+URL:https://www.fotmob.com/match/4935212
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Hellas Verona/Venezia starting in 15 minutes. Notif
+ ications can be turned off in calendar settings
+SUMMARY:⚽️ Inter - Hellas Verona/Venezia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803170 \nSerie A
+DTEND:20251207T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251207T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Como
+TRANSP:TRANSPARENT
+UID:4803170-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803170
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Como starting in 15 minutes. Notifications can be t
+ urned off in calendar settings
+SUMMARY:⚽️ Inter - Como starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947124 \nChampions League
+DTEND:20251209T214500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251209T200000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Liverpool
+TRANSP:TRANSPARENT
+UID:4947124-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Liverpool starting in 15 minutes. Notifications can
+  be turned off in calendar settings
+SUMMARY:⚽️ Inter - Liverpool starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803181 \nSerie A
+DTEND:20251214T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251214T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Luigi Ferraris
+SEQUENCE:0
+SUMMARY:⚽️ Genoa - Inter
+TRANSP:TRANSPARENT
+UID:4803181-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803181
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Genoa - Inter starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Genoa - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4934510 \nSupercoppa
+DTEND:20251218T204500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251218T190000Z
+LAST-MODIFIED:20250909T232323Z
+SEQUENCE:0
+SUMMARY:⚽️ Bologna - Inter
+TRANSP:TRANSPARENT
+UID:4934510-8636@fotmob.com
+URL:https://www.fotmob.com/match/4934510
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Bologna - Inter starting in 15 minutes. Notifications can b
+ e turned off in calendar settings
+SUMMARY:⚽️ Bologna - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803192 \nSerie A
+DTEND:20251221T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251221T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Lecce
+TRANSP:TRANSPARENT
+UID:4803192-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803192
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Lecce starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Inter - Lecce starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803207 \nSerie A
+DTEND:20251228T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20251228T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Gewiss Stadium
+SEQUENCE:0
+SUMMARY:⚽️ Atalanta - Inter
+TRANSP:TRANSPARENT
+UID:4803207-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803207
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Atalanta - Inter starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Atalanta - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803213 \nSerie A
+DTEND:20260103T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260103T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Bologna
+TRANSP:TRANSPARENT
+UID:4803213-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803213
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Bologna starting in 15 minutes. Notifications can b
+ e turned off in calendar settings
+SUMMARY:⚽️ Inter - Bologna starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803224 \nSerie A
+DTEND:20260106T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260106T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Ennio Tardini
+SEQUENCE:0
+SUMMARY:⚽️ Parma - Inter
+TRANSP:TRANSPARENT
+UID:4803224-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Parma - Inter starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Parma - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803232 \nSerie A
+DTEND:20260111T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260111T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Napoli
+TRANSP:TRANSPARENT
+UID:4803232-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803232
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Napoli starting in 15 minutes. Notifications can be
+  turned off in calendar settings
+SUMMARY:⚽️ Inter - Napoli starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803245 \nSerie A
+DTEND:20260118T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260118T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Bluenergy Stadium - Stadio Friuli
+SEQUENCE:0
+SUMMARY:⚽️ Udinese - Inter
+TRANSP:TRANSPARENT
+UID:4803245-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803245
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Udinese - Inter starting in 15 minutes. Notifications can b
+ e turned off in calendar settings
+SUMMARY:⚽️ Udinese - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947126 \nChampions League
+DTEND:20260120T214500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260120T200000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Arsenal
+TRANSP:TRANSPARENT
+UID:4947126-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947126
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Arsenal starting in 15 minutes. Notifications can b
+ e turned off in calendar settings
+SUMMARY:⚽️ Inter - Arsenal starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803252 \nSerie A
+DTEND:20260125T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260125T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Pisa
+TRANSP:TRANSPARENT
+UID:4803252-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803252
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Pisa starting in 15 minutes. Notifications can be t
+ urned off in calendar settings
+SUMMARY:⚽️ Inter - Pisa starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947125 \nChampions League
+DTEND:20260128T214500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260128T200000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Signal Iduna Park
+SEQUENCE:0
+SUMMARY:⚽️ Borussia Dortmund - Inter
+TRANSP:TRANSPARENT
+UID:4947125-8636@fotmob.com
+URL:https://www.fotmob.com/match/4947125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Borussia Dortmund - Inter starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Borussia Dortmund - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803261 \nSerie A
+DTEND:20260201T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260201T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Giovanni Zini
+SEQUENCE:0
+SUMMARY:⚽️ Cremonese - Inter
+TRANSP:TRANSPARENT
+UID:4803261-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803261
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Cremonese - Inter starting in 15 minutes. Notifications can
+  be turned off in calendar settings
+SUMMARY:⚽️ Cremonese - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803269 \nSerie A
+DTEND:20260208T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260208T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Mapei - Citta del Tricolore
+SEQUENCE:0
+SUMMARY:⚽️ Sassuolo - Inter
+TRANSP:TRANSPARENT
+UID:4803269-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803269
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Sassuolo - Inter starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Sassuolo - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803281 \nSerie A
+DTEND:20260215T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260215T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Juventus
+TRANSP:TRANSPARENT
+UID:4803281-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803281
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Juventus starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Inter - Juventus starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803294 \nSerie A
+DTEND:20260222T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260222T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Ettore Giardiniero - Via del Mare
+SEQUENCE:0
+SUMMARY:⚽️ Lecce - Inter
+TRANSP:TRANSPARENT
+UID:4803294-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803294
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Lecce - Inter starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Lecce - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803299 \nSerie A
+DTEND:20260301T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260301T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Genoa
+TRANSP:TRANSPARENT
+UID:4803299-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803299
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Genoa starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Inter - Genoa starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803316 \nSerie A
+DTEND:20260308T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260308T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:San Siro
+SEQUENCE:0
+SUMMARY:⚽️ Milan - Inter
+TRANSP:TRANSPARENT
+UID:4803316-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803316
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Milan - Inter starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Milan - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803320 \nSerie A
+DTEND:20260315T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260315T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Atalanta
+TRANSP:TRANSPARENT
+UID:4803320-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803320
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Atalanta starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Inter - Atalanta starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803332 \nSerie A
+DTEND:20260322T184500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260322T170000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Artemio Franchi\, Firenze
+SEQUENCE:0
+SUMMARY:⚽️ Fiorentina - Inter
+TRANSP:TRANSPARENT
+UID:4803332-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803332
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Fiorentina - Inter starting in 15 minutes. Notifications ca
+ n be turned off in calendar settings
+SUMMARY:⚽️ Fiorentina - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803339 \nSerie A
+DTEND:20260404T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260404T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Roma
+TRANSP:TRANSPARENT
+UID:4803339-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803339
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Roma starting in 15 minutes. Notifications can be t
+ urned off in calendar settings
+SUMMARY:⚽️ Inter - Roma starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803351 \nSerie A
+DTEND:20260412T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260412T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio G. Sinigaglia
+SEQUENCE:0
+SUMMARY:⚽️ Como - Inter
+TRANSP:TRANSPARENT
+UID:4803351-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803351
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Como - Inter starting in 15 minutes. Notifications can be t
+ urned off in calendar settings
+SUMMARY:⚽️ Como - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803358 \nSerie A
+DTEND:20260419T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260419T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Cagliari
+TRANSP:TRANSPARENT
+UID:4803358-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803358
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Cagliari starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Inter - Cagliari starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803376 \nSerie A
+DTEND:20260426T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260426T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Olimpico Grande Torino
+SEQUENCE:0
+SUMMARY:⚽️ Torino - Inter
+TRANSP:TRANSPARENT
+UID:4803376-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803376
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Torino - Inter starting in 15 minutes. Notifications can be
+  turned off in calendar settings
+SUMMARY:⚽️ Torino - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803382 \nSerie A
+DTEND:20260503T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260503T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Parma
+TRANSP:TRANSPARENT
+UID:4803382-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803382
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Parma starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Inter - Parma starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803392 \nSerie A
+DTEND:20260510T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260510T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Olimpico\, Rome
+SEQUENCE:0
+SUMMARY:⚽️ Lazio - Inter
+TRANSP:TRANSPARENT
+UID:4803392-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803392
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Lazio - Inter starting in 15 minutes. Notifications can be 
+ turned off in calendar settings
+SUMMARY:⚽️ Lazio - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803402 \nSerie A
+DTEND:20260517T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260517T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Giuseppe Meazza
+SEQUENCE:0
+SUMMARY:⚽️ Inter - Hellas Verona
+TRANSP:TRANSPARENT
+UID:4803402-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803402
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Inter - Hellas Verona starting in 15 minutes. Notifications
+  can be turned off in calendar settings
+SUMMARY:⚽️ Inter - Hellas Verona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4803408 \nSerie A
+DTEND:20260524T174500Z
+DTSTAMP:20250909T232323Z
+DTSTART:20260524T160000Z
+LAST-MODIFIED:20250909T232323Z
+LOCATION:Stadio Renato Dell'Ara
+SEQUENCE:0
+SUMMARY:⚽️ Bologna - Inter
+TRANSP:TRANSPARENT
+UID:4803408-8636@fotmob.com
+URL:https://www.fotmob.com/match/4803408
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Bologna - Inter starting in 15 minutes. Notifications can b
+ e turned off in calendar settings
+SUMMARY:⚽️ Bologna - Inter starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
