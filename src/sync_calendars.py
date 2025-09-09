@@ -93,8 +93,8 @@ def fetch_calendar(team_config: dict[str, str]) -> str:
 def sha256_file(path: str) -> str:
     if not os.path.exists(path):
         return ""
-    result = subprocess.run(["sha256", "-q", path], capture_output=True, text=True, check=True)
-    return result.stdout
+    result = subprocess.run(["sha256sum", path], capture_output=True, text=True, check=True)
+    return result.stdout.split(' ')[0]
 
 
 def sanitize_calendar(path: str, spoiler_free_period: timedelta) -> cal.Component:
