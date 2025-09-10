@@ -1,0 +1,1084 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//FOTMOB//FOTMOB 1.0//EN
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+VERSION:2.0
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:Barcelona fixtures
+X-WR-CALNAME:Barcelona
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4833811 \nClub Friendlies
+DTEND:20250727T114500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250727T100000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:NOEVIR Stadium Kobe\, 1-2-2 Misaki-cho\, Hyogo-ku\, Kobe\, JPN
+SEQUENCE:0
+SUMMARY:⚽️ Vissel Kobe - Barcelona  (1-3)
+TRANSP:TRANSPARENT
+UID:4833811-8634@fotmob.com
+URL:https://www.fotmob.com/match/4833811
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Vissel Kobe - Barcelona starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:⚽️ Vissel Kobe - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4833812 \nClub Friendlies
+DTEND:20250731T124500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250731T110000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Seoul World Cup Stadium\, 515 Seongsan-dong\, Mapo-gu\, Sangam\, 
+ Seoul\, KOR
+SEQUENCE:0
+SUMMARY:⚽️ FC Seoul - Barcelona  (3-7)
+TRANSP:TRANSPARENT
+UID:4833812-8634@fotmob.com
+URL:https://www.fotmob.com/match/4833812
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ FC Seoul - Barcelona starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ FC Seoul - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4833813 \nClub Friendlies
+DTEND:20250804T124500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250804T110000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Daegu Stadium\, 504 Naehwan-dong\, Suseong-gu\, Daegu\, KOR
+SEQUENCE:0
+SUMMARY:⚽️ Daegu FC - Barcelona  (0-5)
+TRANSP:TRANSPARENT
+UID:4833813-8634@fotmob.com
+URL:https://www.fotmob.com/match/4833813
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Daegu FC - Barcelona starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ Daegu FC - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4885967 \nClub Friendlies
+DTEND:20250810T204500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250810T190000Z
+LAST-MODIFIED:20250909T234528Z
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Como  (5-0)
+TRANSP:TRANSPARENT
+UID:4885967-8634@fotmob.com
+URL:https://www.fotmob.com/match/4885967
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Como starting in 15 minutes. Notifications can 
+ be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Como starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837114 \nLaLiga
+DTEND:20250816T191500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250816T173000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadi Mallorca Son Moix\, Camí dels Reis\, Palma de Mallorca\, E
+ SP
+SEQUENCE:0
+SUMMARY:⚽️ Mallorca - Barcelona  (0-3)
+TRANSP:TRANSPARENT
+UID:4837114-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Mallorca - Barcelona starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ Mallorca - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837124 \nLaLiga
+DTEND:20250823T211500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250823T193000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio Ciudad de Valencia\, Calle San Vicente de Paúl 44\, Valen
+ cia\, ESP
+SEQUENCE:0
+SUMMARY:⚽️ Levante - Barcelona  (2-3)
+TRANSP:TRANSPARENT
+UID:4837124-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Levante - Barcelona starting in 15 minutes. Notifications c
+ an be turned off in calendar settings
+SUMMARY:⚽️ Levante - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837136 \nLaLiga
+DTEND:20250831T211500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250831T193000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio de Vallecas\, Calle Payaso Fofó\, Madrid\, ESP
+SEQUENCE:0
+SUMMARY:⚽️ Rayo Vallecano - Barcelona  (1-1)
+TRANSP:TRANSPARENT
+UID:4837136-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837136
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Rayo Vallecano - Barcelona starting in 15 minutes. Notifica
+ tions can be turned off in calendar settings
+SUMMARY:⚽️ Rayo Vallecano - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837140 \nLaLiga
+DTEND:20250914T204500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250914T190000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadi Johan Cruyff
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Valencia
+TRANSP:TRANSPARENT
+UID:4837140-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837140
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Valencia starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Valencia starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947153 \nChampions League
+DTEND:20250918T204500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250918T190000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:St. James' Park\, St. James' Street\, Newcastle upon Tyne\, ENG
+SEQUENCE:0
+SUMMARY:⚽️ Newcastle United - Barcelona
+TRANSP:TRANSPARENT
+UID:4947153-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947153
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Newcastle United - Barcelona starting in 15 minutes. Notifi
+ cations can be turned off in calendar settings
+SUMMARY:⚽️ Newcastle United - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837150 \nLaLiga
+DTEND:20250921T204500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250921T190000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Getafe
+TRANSP:TRANSPARENT
+UID:4837150-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837150
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Getafe starting in 15 minutes. Notifications ca
+ n be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Getafe starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837166 \nLaLiga
+DTEND:20250925T211500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250925T193000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio Municipal Carlos Tartiere\, C. Isidro Lángara\, Oviedo\, 
+ ESP
+SEQUENCE:0
+SUMMARY:⚽️ Real Oviedo - Barcelona
+TRANSP:TRANSPARENT
+UID:4837166-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837166
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Real Oviedo - Barcelona starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:⚽️ Real Oviedo - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837171 \nLaLiga
+DTEND:20250928T204500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20250928T190000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou\, Carrer d'Arístides Maillol\, Barcelona\, ESP
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Real Sociedad
+TRANSP:TRANSPARENT
+UID:4837171-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837171
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Real Sociedad starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Real Sociedad starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947145 \nChampions League
+DTEND:20251001T204500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251001T190000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Paris Saint-Germain
+TRANSP:TRANSPARENT
+UID:4947145-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947145
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Paris Saint-Germain starting in 15 minutes. Not
+ ifications can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Paris Saint-Germain starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837185 \nLaLiga
+DTEND:20251005T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251005T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio R. Sanchez Pizjuan
+SEQUENCE:0
+SUMMARY:⚽️ Sevilla - Barcelona
+TRANSP:TRANSPARENT
+UID:4837185-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837185
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Sevilla - Barcelona starting in 15 minutes. Notifications c
+ an be turned off in calendar settings
+SUMMARY:⚽️ Sevilla - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837192 \nLaLiga
+DTEND:20251019T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251019T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Girona
+TRANSP:TRANSPARENT
+UID:4837192-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837192
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Girona starting in 15 minutes. Notifications ca
+ n be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Girona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947148 \nChampions League
+DTEND:20251021T183000Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251021T164500Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Olympiacos
+TRANSP:TRANSPARENT
+UID:4947148-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947148
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Olympiacos starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Olympiacos starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837206 \nLaLiga
+DTEND:20251026T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251026T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio Santiago Bernabeu
+SEQUENCE:0
+SUMMARY:⚽️ Real Madrid - Barcelona
+TRANSP:TRANSPARENT
+UID:4837206-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837206
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Real Madrid - Barcelona starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:⚽️ Real Madrid - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837212 \nLaLiga
+DTEND:20251102T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251102T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Elche
+TRANSP:TRANSPARENT
+UID:4837212-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837212
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Elche starting in 15 minutes. Notifications can
+  be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Elche starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947147 \nChampions League
+DTEND:20251105T214500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251105T200000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Jan Breydelstadion\, Olympialaan 74\, Brugge\, BEL
+SEQUENCE:0
+SUMMARY:⚽️ Club Brugge - Barcelona
+TRANSP:TRANSPARENT
+UID:4947147-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947147
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Club Brugge - Barcelona starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:⚽️ Club Brugge - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837226 \nLaLiga
+DTEND:20251109T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251109T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Abanca Balaidos
+SEQUENCE:0
+SUMMARY:⚽️ Celta Vigo - Barcelona
+TRANSP:TRANSPARENT
+UID:4837226-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837226
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Celta Vigo - Barcelona starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:⚽️ Celta Vigo - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837236 \nLaLiga
+DTEND:20251123T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251123T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Athletic Club
+TRANSP:TRANSPARENT
+UID:4837236-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837236
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Athletic Club starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Athletic Club starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947109 \nChampions League
+DTEND:20251125T214500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251125T200000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Stamford Bridge
+SEQUENCE:0
+SUMMARY:⚽️ Chelsea - Barcelona
+TRANSP:TRANSPARENT
+UID:4947109-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947109
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Chelsea - Barcelona starting in 15 minutes. Notifications c
+ an be turned off in calendar settings
+SUMMARY:⚽️ Chelsea - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837246 \nLaLiga
+DTEND:20251130T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251130T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Deportivo Alaves
+TRANSP:TRANSPARENT
+UID:4837246-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837246
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Deportivo Alaves starting in 15 minutes. Notifi
+ cations can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Deportivo Alaves starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837254 \nLaLiga
+DTEND:20251207T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251207T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio de La Cartuja
+SEQUENCE:0
+SUMMARY:⚽️ Real Betis - Barcelona
+TRANSP:TRANSPARENT
+UID:4837254-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837254
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Real Betis - Barcelona starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:⚽️ Real Betis - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947146 \nChampions League
+DTEND:20251209T214500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251209T200000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Eintracht Frankfurt
+TRANSP:TRANSPARENT
+UID:4947146-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947146
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Eintracht Frankfurt starting in 15 minutes. Not
+ ifications can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Eintracht Frankfurt starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837262 \nLaLiga
+DTEND:20251214T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251214T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Osasuna
+TRANSP:TRANSPARENT
+UID:4837262-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837262
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Osasuna starting in 15 minutes. Notifications c
+ an be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Osasuna starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837277 \nLaLiga
+DTEND:20251221T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20251221T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio de la Ceramica
+SEQUENCE:0
+SUMMARY:⚽️ Villarreal - Barcelona
+TRANSP:TRANSPARENT
+UID:4837277-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837277
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Villarreal - Barcelona starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:⚽️ Villarreal - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837285 \nLaLiga
+DTEND:20260104T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260104T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:RCDE Stadium
+SEQUENCE:0
+SUMMARY:⚽️ Espanyol - Barcelona
+TRANSP:TRANSPARENT
+UID:4837285-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837285
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Espanyol - Barcelona starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ Espanyol - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4889767 \nSupercopa de España
+DTEND:20260107T204500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260107T190000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Athletic Club
+TRANSP:TRANSPARENT
+UID:4889767-8634@fotmob.com
+URL:https://www.fotmob.com/match/4889767
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Athletic Club starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Athletic Club starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837294 \nLaLiga
+DTEND:20260111T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260111T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Atletico Madrid
+TRANSP:TRANSPARENT
+UID:4837294-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837294
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Atletico Madrid starting in 15 minutes. Notific
+ ations can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Atletico Madrid starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837308 \nLaLiga
+DTEND:20260118T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260118T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Reale Arena
+SEQUENCE:0
+SUMMARY:⚽️ Real Sociedad - Barcelona
+TRANSP:TRANSPARENT
+UID:4837308-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837308
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Real Sociedad - Barcelona starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Real Sociedad - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947151 \nChampions League
+DTEND:20260121T214500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260121T200000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Fortuna Arena
+SEQUENCE:0
+SUMMARY:⚽️ Slavia Prague - Barcelona
+TRANSP:TRANSPARENT
+UID:4947151-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947151
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Slavia Prague - Barcelona starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Slavia Prague - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837312 \nLaLiga
+DTEND:20260125T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260125T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Real Oviedo
+TRANSP:TRANSPARENT
+UID:4837312-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837312
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Real Oviedo starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Real Oviedo starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4947152 \nChampions League
+DTEND:20260128T214500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260128T200000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - FC København
+TRANSP:TRANSPARENT
+UID:4947152-8634@fotmob.com
+URL:https://www.fotmob.com/match/4947152
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - FC København starting in 15 minutes. Notificati
+ ons can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - FC København starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837326 \nLaLiga
+DTEND:20260201T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260201T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio Martinez Valero
+SEQUENCE:0
+SUMMARY:⚽️ Elche - Barcelona
+TRANSP:TRANSPARENT
+UID:4837326-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837326
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Elche - Barcelona starting in 15 minutes. Notifications can
+  be turned off in calendar settings
+SUMMARY:⚽️ Elche - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837333 \nLaLiga
+DTEND:20260208T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260208T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Mallorca
+TRANSP:TRANSPARENT
+UID:4837333-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837333
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Mallorca starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Mallorca starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837347 \nLaLiga
+DTEND:20260215T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260215T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadi Municipal de Montilivi
+SEQUENCE:0
+SUMMARY:⚽️ Girona - Barcelona
+TRANSP:TRANSPARENT
+UID:4837347-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837347
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Girona - Barcelona starting in 15 minutes. Notifications ca
+ n be turned off in calendar settings
+SUMMARY:⚽️ Girona - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837353 \nLaLiga
+DTEND:20260222T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260222T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Levante
+TRANSP:TRANSPARENT
+UID:4837353-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837353
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Levante starting in 15 minutes. Notifications c
+ an be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Levante starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837360 \nLaLiga
+DTEND:20260301T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260301T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Villarreal
+TRANSP:TRANSPARENT
+UID:4837360-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837360
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Villarreal starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Villarreal starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837370 \nLaLiga
+DTEND:20260308T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260308T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:San Mames
+SEQUENCE:0
+SUMMARY:⚽️ Athletic Club - Barcelona
+TRANSP:TRANSPARENT
+UID:4837370-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837370
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Athletic Club - Barcelona starting in 15 minutes. Notificat
+ ions can be turned off in calendar settings
+SUMMARY:⚽️ Athletic Club - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837382 \nLaLiga
+DTEND:20260315T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260315T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Sevilla
+TRANSP:TRANSPARENT
+UID:4837382-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837382
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Sevilla starting in 15 minutes. Notifications c
+ an be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Sevilla starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837391 \nLaLiga
+DTEND:20260322T194500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260322T180000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Rayo Vallecano
+TRANSP:TRANSPARENT
+UID:4837391-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837391
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Rayo Vallecano starting in 15 minutes. Notifica
+ tions can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Rayo Vallecano starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837401 \nLaLiga
+DTEND:20260405T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260405T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Riyadh Air Metropolitano
+SEQUENCE:0
+SUMMARY:⚽️ Atletico Madrid - Barcelona
+TRANSP:TRANSPARENT
+UID:4837401-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Atletico Madrid - Barcelona starting in 15 minutes. Notific
+ ations can be turned off in calendar settings
+SUMMARY:⚽️ Atletico Madrid - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837411 \nLaLiga
+DTEND:20260412T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260412T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Espanyol
+TRANSP:TRANSPARENT
+UID:4837411-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837411
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Espanyol starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Espanyol starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837426 \nLaLiga
+DTEND:20260419T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260419T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Coliseum
+SEQUENCE:0
+SUMMARY:⚽️ Getafe - Barcelona
+TRANSP:TRANSPARENT
+UID:4837426-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837426
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Getafe - Barcelona starting in 15 minutes. Notifications ca
+ n be turned off in calendar settings
+SUMMARY:⚽️ Getafe - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837431 \nLaLiga
+DTEND:20260422T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260422T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Celta Vigo
+TRANSP:TRANSPARENT
+UID:4837431-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837431
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Celta Vigo starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Celta Vigo starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837447 \nLaLiga
+DTEND:20260503T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260503T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio El Sadar
+SEQUENCE:0
+SUMMARY:⚽️ Osasuna - Barcelona
+TRANSP:TRANSPARENT
+UID:4837447-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837447
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Osasuna - Barcelona starting in 15 minutes. Notifications c
+ an be turned off in calendar settings
+SUMMARY:⚽️ Osasuna - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837452 \nLaLiga
+DTEND:20260510T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260510T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Real Madrid
+TRANSP:TRANSPARENT
+UID:4837452-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837452
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Real Madrid starting in 15 minutes. Notificatio
+ ns can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Real Madrid starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837460 \nLaLiga
+DTEND:20260513T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260513T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio Mendizorroza
+SEQUENCE:0
+SUMMARY:⚽️ Deportivo Alaves - Barcelona
+TRANSP:TRANSPARENT
+UID:4837460-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837460
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Deportivo Alaves - Barcelona starting in 15 minutes. Notifi
+ cations can be turned off in calendar settings
+SUMMARY:⚽️ Deportivo Alaves - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837472 \nLaLiga
+DTEND:20260517T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260517T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Spotify Camp Nou
+SEQUENCE:0
+SUMMARY:⚽️ Barcelona - Real Betis
+TRANSP:TRANSPARENT
+UID:4837472-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837472
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Barcelona - Real Betis starting in 15 minutes. Notification
+ s can be turned off in calendar settings
+SUMMARY:⚽️ Barcelona - Real Betis starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:https://www.fotmob.com/match/4837488 \nLaLiga
+DTEND:20260524T184500Z
+DTSTAMP:20250909T234528Z
+DTSTART:20260524T170000Z
+LAST-MODIFIED:20250909T234528Z
+LOCATION:Estadio Mestalla
+SEQUENCE:0
+SUMMARY:⚽️ Valencia - Barcelona
+TRANSP:TRANSPARENT
+UID:4837488-8634@fotmob.com
+URL:https://www.fotmob.com/match/4837488
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽️ Valencia - Barcelona starting in 15 minutes. Notifications 
+ can be turned off in calendar settings
+SUMMARY:⚽️ Valencia - Barcelona starting in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
