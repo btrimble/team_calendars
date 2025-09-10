@@ -54,28 +54,23 @@ def spoiler_free(s: str) -> str:
     return clean_s
 
 
-def sanitize_event(event: cal.Event) -> cal.Event:
+def sanitize_event(event: cal.Event):
     # Move scores from title to description
     event_keys = set(event.keys())
     if (event_keys - KNOWN_KEYS) != set():
         # TODO: Raise and catch somewhere reasonable so this doesn't short circuit the whole process
         warning(f"Unknown keys! {event_keys - KNOWN_KEYS}"); exit(1)
 
-    sanitized_event = cal.Event()
     for key in event_keys:
         if key in SCRUB_KEYS:
-           sanitized_event[key] = spoiler_free(event[key])
-        else:
-            sanitized_event[key] = event[key]
-
-    return sanitized_event
+           event[key] = spoiler_free(event[key])
 
 
 # returns tmp path
-def fetch_calendar(team_config: dict[str, str]) -> str:
+def fetch_calendar(team_config: dict[str, str]) -> tuple[str, str]:
     debug(f'fetching {team_config["name"]}')
 
-    with tempfile.NamedTemporaryFile(mode='wb+', delete=False) as named_tmp_file:
+    with tempfile.NamedTemporaryFile(mode='wb+', delete=False) as fcal, tempfile.NamedTemporaryFile(mode='wb+', delete=False) as fsanitized_cal:
         headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36',
                 'Accept': 'application/json',
@@ -86,53 +81,41 @@ def fetch_calendar(team_config: dict[str, str]) -> str:
             headers=headers,
             allow_redirects=True
         )  # type: requests.Response
-        named_tmp_file.write(response.content)
-        return named_tmp_file.name
+        fcal.write(response.content)
+        fsanitized_cal.write(response.content)
 
-
-def sha256_file(path: str) -> str:
-    if not os.path.exists(path):
-        return ""
-    result = subprocess.run(["sha256sum", path], capture_output=True, text=True, check=True)
-    return result.stdout.split(' ')[0]
+        return fcal.name, fsanitized_cal.name
 
 
 def sanitize_calendar(path: str, spoiler_free_period: timedelta) -> cal.Component:
     calendar = load_calendar(path)
 
-    sanitized_cal = Calendar()
     events = cast(list[cal.Event], calendar.walk('vevent'))
     for event in events:
         dtstart = event.DTSTART
         if isinstance(dtstart, date):
-                # Convert a date object to a datetime object (at midnight)
-                dtstart = datetime(dtstart.year, dtstart.month, dtstart.day)
-        if dtstart is None or dtstart < (datetime.now() - spoiler_free_period):  # enough time has passed so no need to SCRUB_KEYS
-            sanitized_cal.add_component(event)
-        else:
-            sanitized_cal.add_component(sanitize_event(event))
+            # Convert a date object to a datetime object (at midnight)
+            dtstart = datetime(dtstart.year, dtstart.month, dtstart.day)
 
-    return sanitized_cal
+        if not (dtstart is None or dtstart < (datetime.now() - spoiler_free_period)):  # enough time has passed so no need to SCRUB_KEYS
+            sanitize_event(event)
+
+    with open(path, 'wb+') as f:
+        f.write(calendar.to_ical(sorted=True))
 
 
 def sync_calendar(team_config: dict[str, str]):
     print(team_config['path'])
     # Download source calendar
-    tmp_path = fetch_calendar(team_config)
-
-    # Compare Calendar Files
-    if sha256_file(tmp_path) == sha256_file(team_config['path']):
-        debug(f"Skipping {team_config['path']}")
-        return
+    tmp_path, sanitized_tmp_path = fetch_calendar(team_config)
 
     # Sanitize New Calendar
-    cal = sanitize_calendar(tmp_path, parse_duration(team_config['spoiler_free_period']))
+    sanitize_calendar(sanitized_tmp_path, parse_duration(team_config['spoiler_free_period']))
 
     # Write Calendars to Official Paths
     os.makedirs(os.path.dirname(team_config['path']), exist_ok=True)
     shutil.copy2(tmp_path, team_config['path'])
-    with open(team_config['sanitized_path'], 'wb+') as f:
-        f.write(cal.to_ical(sorted=True))
+    shutil.copy2(sanitized_tmp_path, team_config['sanitized_path'])
 
 
 def sync_all_calendars():
