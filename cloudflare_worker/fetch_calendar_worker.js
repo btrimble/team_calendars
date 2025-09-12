@@ -1,0 +1,26 @@
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+
+    // Map incoming path to your GitHub raw repo link
+    // Example: https://your-worker.your-domain.workers.dev/soccer/premier_league/mancity.ics
+    const githubRawBase = "https://raw.githubusercontent.com/btrimble/team_calendars/refs/heads/main/data";
+    const githubUrl = githubRawBase + url.pathname;
+
+    // Fetch the original file
+    const response = await fetch(githubUrl);
+    if (!response.ok) {
+      return new Response("Not found", { status: 404 });
+    }
+
+    // Clone body but set new headers
+    const icsBody = await response.text();
+    return new Response(icsBody, {
+      headers: {
+        "Content-Type": "text/calendar; charset=utf-8",
+        "Content-Disposition": `inline; filename="${url.pathname.split('/').pop()}"`,
+        "Cache-Control": "public, max-age=3600", // optional caching
+      },
+    });
+  },
+};
