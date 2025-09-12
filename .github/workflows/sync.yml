@@ -17,6 +17,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Sync calendars
         run: python src/sync_calendars.py
+      - name: Create sanity check calendar
+        run: python src/create_sanity_check_calendar.py
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
@@ -24,3 +26,4 @@ jobs:
           git add .
           git diff --staged --quiet || git commit -m "Update calendars $(date)"
           git push
+

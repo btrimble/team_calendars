@@ -3,12 +3,10 @@ from logging import warning, debug
 import os
 import re
 import shutil
-import subprocess
 import tempfile
-from threading import Event
-from typing import cast, Sequence
+from typing import cast
 
-from icalendar import Calendar, cal
+from icalendar import cal
 import requests
 
 from team_utils import load_calendar, load_teams
