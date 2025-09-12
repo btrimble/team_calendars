@@ -175,3 +175,5 @@ credentials/
 Untitled.ipynb
 .DS_Store 
 pyrightconfig.json
+
+node_modules
