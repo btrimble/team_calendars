@@ -18,7 +18,7 @@ export default {
     return new Response(icsBody, {
       headers: {
         "Content-Type": "text/calendar; charset=utf-8",
-        "Content-Disposition": `inline; filename="${url.pathname.split('/').pop()}"`,
+        "Content-Disposition": `attachment; filename="${url.pathname.split('/').pop()}"; filename*=UTF-8''${url.pathname.split('/').pop()}`,
         "Cache-Control": "public, max-age=3600", // optional caching
       },
     });
