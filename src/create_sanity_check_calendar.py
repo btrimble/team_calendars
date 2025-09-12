@@ -1,6 +1,5 @@
 import zoneinfo
 from datetime import date, datetime, timedelta
-from logging import warning, debug
 import os
 
 from icalendar import Calendar, cal
@@ -16,9 +15,10 @@ def create_sanity_check_calendar():
     calendar['VERSION'] = '2.0'
     event = cal.Event()
     dt = date.today()
-    event.start = datetime(dt.year, dt.month, dt.day, hour=18, \
+    event['SUMMARY'] = 'Sample Event'
+    event.DTSTART = datetime(dt.year, dt.month, dt.day, hour=18, \
         tzinfo=zoneinfo.ZoneInfo('America/Los_Angeles')) + timedelta(days=1)
-    event.end = event.start + timedelta(hours=1)
+    event.DTEND = event.start + timedelta(hours=1)
     event.DTSTAMP = datetime.now()
     event.uid = '01K4Y62RYCM54BMEH8MRDQ4T1K'
     calendar.add_component(event)
