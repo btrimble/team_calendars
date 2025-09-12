@@ -19,7 +19,7 @@ export default {
 		newHeaders.set("Content-Type", "text/calendar; charset=utf-8");
 		newHeaders.set("Content-Disposition",
 			`attachment; filename="${url.pathname.split('/').pop()}"; filename*=UTF-8''${url.pathname.split('/').pop()}`);
-		newHeaders.set("Cache-Control", "no-cache");
+		newHeaders.set("Cache-Control", "public,max-age=3600");
 		newHeaders.set("Content-Length", icsBody.length.toString())
 
     return new Response(icsBody, {
