@@ -13,7 +13,7 @@ Hi! Please pick a calendar link from the list below:
 
 TABLE_ROW_TEMPLATE = \
     "| {sport} | {league} | {team} | ( [Standard]({link}) \\| [No Spoilers]({spoiler_free_link}) ) |\n"
-LINK_TEMPLATE = "https://www.google.com/calendar/render?cid=webcal://raw.githubusercontent.com/btrimble/team_calendars/refs/heads/main/{path}"
+LINK_TEMPLATE = "https://raw.githubusercontent.com/btrimble/team_calendars/refs/heads/main/{path}"
 
 def create_readme():
     teams = load_teams()
