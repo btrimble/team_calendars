@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "calendar-proxy",
-	"main": "src/index.ts",
+	"main": "src/fetch_calendar_worker.js",
 	"compatibility_date": "2025-09-11",
 	"observability": {
 		"enabled": true
