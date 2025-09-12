@@ -15,11 +15,11 @@ export default {
 
     // Clone body but set new headers
     const icsBody = await response.text();
-    const newHeaders = new Headers(response.headers);
+    const newHeaders = new Headers();
 		newHeaders.set("Content-Type", "text/calendar; charset=utf-8");
 		newHeaders.set("Content-Disposition",
 			`attachment; filename="${url.pathname.split('/').pop()}"; filename*=UTF-8''${url.pathname.split('/').pop()}`);
-		newHeaders.set("Cache-Control", "public, max-age=3600");
+		newHeaders.set("Cache-Control", "no-cache");
 
     return new Response(icsBody, {
     	status: response.status,
