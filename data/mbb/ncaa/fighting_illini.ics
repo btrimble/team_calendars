@@ -5,7 +5,7 @@ X-WR-CALNAME:Men's Basketball - fightingillini.com
 X-PUBLISHED-TTL:PT120M
 BEGIN:VEVENT
 UID:vcal_28027-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
 LOCATION:Champaign\, Ill., State Farm Center
@@ -16,7 +16,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_28028-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251104
 LOCATION:Champaign\, Ill., State Farm Center
@@ -27,7 +27,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_28029-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 LOCATION:Champaign\, Ill., State Farm Center
@@ -38,7 +38,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26845-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 LOCATION:Champaign\, Ill., State Farm Center
@@ -49,7 +49,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_28030-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 LOCATION:Champaign\, Ill., State Farm Center
@@ -60,7 +60,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26844-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
 LOCATION:Chicago Ill., United Center
@@ -71,7 +71,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_28031-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251123
 LOCATION:Champaign\, Ill., State Farm Center
@@ -82,7 +82,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_28032-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
 LOCATION:Champaign\, Ill., State Farm Center
@@ -93,18 +93,18 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_28025-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 LOCATION:New York\, N.Y., Madison Square Garden
 SUMMARY:Illini Men's Basketball vs UConn
-DESCRIPTION:Illini Men's Basketball vs UConn\nRadio: Busey Bank Illini Sports Network\n
+DESCRIPTION:Illini Men's Basketball vs UConn\nRadio: Busey Bank Illini Sports Network\nTickets: https://www.ticketmaster.com/event/3B006319EC9F1A01?did=ie9vmn9l\n
 URL:https://fightingillini.com/calendar.aspx?game_id=28025&amp;sport_id=5
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27451-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
 LOCATION:Nashville\, Tenn., Bridgestone Arena
@@ -114,8 +114,30 @@ URL:https://fightingillini.com/calendar.aspx?game_id=27451&amp;sport_id=5
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_28498-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+LOCATION:Columbus\, Ohio
+SUMMARY:Illini Men's Basketball at Ohio State
+DESCRIPTION:Illini Men's Basketball at Ohio State\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28498&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28499-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Nebraska
+DESCRIPTION:Illini Men's Basketball vs Nebraska\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28499&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_28026-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251223
 LOCATION:St. Louis\, Mo., Enterprise Center
@@ -126,13 +148,233 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_28033-fightingillini.com
-DTSTAMP:20250918T061900Z
+DTSTAMP:20250919T061904Z
 DTSTART;VALUE=DATE:20251229
 DTEND;VALUE=DATE:20251230
 LOCATION:Champaign\, Ill., State Farm Center
 SUMMARY:Illini Men's Basketball vs Southern
 DESCRIPTION:Illini Men's Basketball vs Southern\nRadio: Busey Bank Illini Sports Network\n
 URL:https://fightingillini.com/calendar.aspx?game_id=28033&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28500-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+LOCATION:Philadelphia\, Pa.
+SUMMARY:Illini Men's Basketball at Penn State
+DESCRIPTION:Illini Men's Basketball at Penn State\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28500&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28501-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Rutgers
+DESCRIPTION:Illini Men's Basketball vs Rutgers\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28501&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28502-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+LOCATION:Iowa City\, Iowa
+SUMMARY:Illini Men's Basketball at Iowa
+DESCRIPTION:Illini Men's Basketball at Iowa\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28502&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28503-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+LOCATION:Evanston\, Ill.
+SUMMARY:Illini Men's Basketball at Northwestern
+DESCRIPTION:Illini Men's Basketball at Northwestern\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28503&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28504-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Minnesota
+DESCRIPTION:Illini Men's Basketball vs Minnesota\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28504&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28505-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Maryland
+DESCRIPTION:Illini Men's Basketball vs Maryland\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28505&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28506-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+LOCATION:West Lafayette\, Ind.
+SUMMARY:Illini Men's Basketball at Purdue
+DESCRIPTION:Illini Men's Basketball at Purdue\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28506&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28507-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Washington
+DESCRIPTION:Illini Men's Basketball vs Washington\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28507&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28508-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+LOCATION:Lincoln\, Neb.
+SUMMARY:Illini Men's Basketball at Nebraska
+DESCRIPTION:Illini Men's Basketball at Nebraska\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28508&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28509-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Northwestern
+DESCRIPTION:Illini Men's Basketball vs Northwestern\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28509&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28510-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+LOCATION:East Lansing\, Mich.
+SUMMARY:Illini Men's Basketball at Michigan State
+DESCRIPTION:Illini Men's Basketball at Michigan State\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28510&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28511-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Wisconsin
+DESCRIPTION:Illini Men's Basketball vs Wisconsin\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28511&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28512-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Indiana
+DESCRIPTION:Illini Men's Basketball vs Indiana\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28512&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28513-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+LOCATION:Los Angeles\, Calif.
+SUMMARY:Illini Men's Basketball at Southern California
+DESCRIPTION:Illini Men's Basketball at Southern California\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28513&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28514-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+LOCATION:Los Angeles\, Calif.
+SUMMARY:Illini Men's Basketball at UCLA
+DESCRIPTION:Illini Men's Basketball at UCLA\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28514&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28515-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Michigan
+DESCRIPTION:Illini Men's Basketball vs Michigan\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28515&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28516-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+LOCATION:Champaign\, Ill., State Farm Center
+SUMMARY:Illini Men's Basketball vs Oregon
+DESCRIPTION:Illini Men's Basketball vs Oregon\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28516&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28517-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+LOCATION:College Park\, Md.
+SUMMARY:Illini Men's Basketball at Maryland
+DESCRIPTION:Illini Men's Basketball at Maryland\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28517&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28518-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260315
+LOCATION:Chicago Ill., United Center
+SUMMARY:Illini Men's Basketball vs Big Ten Tournament
+DESCRIPTION:Illini Men's Basketball vs Big Ten Tournament\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28518&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_28519-fightingillini.com
+DTSTAMP:20250919T061904Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260406
+LOCATION:TBA
+SUMMARY:Illini Men's Basketball vs NCAA Tournament
+DESCRIPTION:Illini Men's Basketball vs NCAA Tournament\nRadio: Busey Bank Illini Sports Network\n
+URL:https://fightingillini.com/calendar.aspx?game_id=28519&amp;sport_id=5
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR
