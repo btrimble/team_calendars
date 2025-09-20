@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Illinois State
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28027-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Illinois State\nTV: B1G+ (Stream)\n
  Radio: Busey Bank Illini Sports Network
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Jackson State
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251104
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28028-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Jackson State\nRadio: Busey Bank Il
  lini Sports Network
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Florida Gulf Coast
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28029-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Florida Gulf Coast\nRadio: Busey Ba
  nk Illini Sports Network
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Texas Tech
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_26845-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Texas Tech\nRadio: Busey Bank Illin
  i Sports Network
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Colgate
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28030-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Colgate\nRadio: Busey Bank Illini S
  ports Network
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Alabama
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_26844-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Alabama\nRadio: Busey Bank Illini S
  ports Network
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Long Island
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251123
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28031-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Long Island\nRadio: Busey Bank Illi
  ni Sports Network
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UT Rio Grande Valley
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28032-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UT Rio Grande Valley\nRadio: Busey 
  Bank Illini Sports Network
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UConn
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28025-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UConn\nRadio: Busey Bank Illini Spo
  rts Network\nTickets: https://www.ticketmaster.com/event/3B006319EC9F1A01?
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Tennessee
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_27451-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Tennessee\nRadio: Busey Bank Illini
   Sports Network\nTickets: https://www.ticketmaster.com/event/1B0062D9EA6F6
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Ohio State
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28498-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Ohio State\nRadio: Busey Bank Illin
  i Sports Network
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Nebraska
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28499-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Nebraska\nRadio: Busey Bank Illini 
  Sports Network
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Missouri
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251223
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28026-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Missouri\nRadio: Busey Bank Illini 
  Sports Network
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Southern
 DTSTART;VALUE=DATE:20251229
 DTEND;VALUE=DATE:20251230
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28033-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Southern\nRadio: Busey Bank Illini 
  Sports Network
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Penn State
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260104
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28500-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Penn State\nRadio: Busey Bank Illin
  i Sports Network
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Rutgers
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28501-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Rutgers\nRadio: Busey Bank Illini S
  ports Network
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Iowa
 DTSTART;VALUE=DATE:20260111
 DTEND;VALUE=DATE:20260112
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28502-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Iowa\nRadio: Busey Bank Illini Spor
  ts Network
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Northwestern
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28503-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Northwestern\nRadio: Busey Bank Ill
  ini Sports Network
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Minnesota
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28504-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Minnesota\nRadio: Busey Bank Illini
   Sports Network
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Maryland
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28505-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Maryland\nRadio: Busey Bank Illini 
  Sports Network
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Purdue
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28506-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Purdue\nRadio: Busey Bank Illini Sp
  orts Network
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Washington
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28507-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Washington\nRadio: Busey Bank Illin
  i Sports Network
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Nebraska
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28508-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Nebraska\nRadio: Busey Bank Illini 
  Sports Network
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Northwestern
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28509-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Northwestern\nRadio: Busey Bank Ill
  ini Sports Network
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Michigan State
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28510-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Michigan State\nRadio: Busey Bank I
  llini Sports Network
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Wisconsin
 DTSTART;VALUE=DATE:20260210
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28511-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Wisconsin\nRadio: Busey Bank Illini
   Sports Network
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Indiana
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28512-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Indiana\nRadio: Busey Bank Illini S
  ports Network
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Southern California
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28513-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Southern California\nRadio: Busey B
  ank Illini Sports Network
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at UCLA
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28514-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at UCLA\nRadio: Busey Bank Illini Spor
  ts Network
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Michigan
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28515-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Michigan\nRadio: Busey Bank Illini 
  Sports Network
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Oregon
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28516-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Oregon\nRadio: Busey Bank Illini Sp
  orts Network
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Maryland
 DTSTART;VALUE=DATE:20260308
 DTEND;VALUE=DATE:20260309
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28517-fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Maryland\nRadio: Busey Bank Illini 
  Sports Network
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Big Ten Tournament
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260315
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28518-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Big Ten Tournament\nRadio: Busey Ba
  nk Illini Sports Network
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs NCAA Tournament
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260406
-DTSTAMP:20250919T061904Z
+DTSTAMP:20250920T061700Z
 UID:vcal_28519-fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs NCAA Tournament\nRadio: Busey Bank 
  Illini Sports Network
