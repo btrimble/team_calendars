@@ -8,1017 +8,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽️ Inter - River Plate  (2-0)
-DTSTART:20250626T010000Z
-DTEND:20250626T024500Z
-DTSTAMP:20260606T074741Z
-UID:4685736-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4685736\nFIFA Club World Cup Grp.
-  E
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Lumen Field\, 800 Occidental Avenue South\, Seattle\, Washington\
- , USA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4685736
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - River Plate starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Inter - River Plate starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Fluminense  (0-2)
-DTSTART:20250630T190000Z
-DTEND:20250630T204500Z
-DTSTAMP:20260606T074741Z
-UID:4685771-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4685771\nFIFA Club World Cup
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Bank of America Stadium\, 800 South Mint Street\, Charlotte\, Nor
- th Carolina\, USA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4685771
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Fluminense starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Fluminense starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇲🇨 Monaco - Inter  (1-2)
-DTSTART:20250808T180000Z
-DTEND:20250808T194500Z
-DTSTAMP:20260606T074741Z
-UID:4892795-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4892795\nClub Friendlies
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stade Louis-II\, 7\, avenue des Castelans\, Monaco\, MCO
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4892795
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🇲🇨 Monaco - Inter starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:🇲🇨 Monaco - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Monza - Inter  (5-7)
-DTSTART:20250812T190000Z
-DTEND:20250812T204500Z
-DTSTAMP:20260606T074741Z
-UID:4893265-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4893265\nClub Friendlies
-LAST-MODIFIED:20260606T074741Z
-LOCATION:U-Power Stadium\, Via Franco Tognini\, Monza\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4893265
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Monza - Inter starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Monza - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Olympiacos  (2-0)
-DTSTART:20250816T183000Z
-DTEND:20250816T201500Z
-DTSTAMP:20260606T074741Z
-UID:4893266-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4893266\nClub Friendlies
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Comunale San Nicola\, Strada Provinciale Modugno-Carbonara
- \, Bari\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4893266
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Olympiacos starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Olympiacos starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Torino  (5-0)
-DTSTART:20250825T184500Z
-DTEND:20250825T203000Z
-DTSTAMP:20260606T074741Z
-UID:4803041-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803041\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803041
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Torino starting in 15 minutes. Notifications ca
- n be turned off in calendar settings
-SUMMARY:⚽️ Inter - Torino starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Udinese  (1-2)
-DTSTART:20250831T184500Z
-DTEND:20250831T203000Z
-DTSTAMP:20260606T074741Z
-UID:4803050-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803050\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803050
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Udinese starting in 15 minutes. Notifications c
- an be turned off in calendar settings
-SUMMARY:⚽️ Inter - Udinese starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Juventus - Inter  (4-3)
-DTSTART:20250913T160000Z
-DTEND:20250913T174500Z
-DTSTAMP:20260606T074741Z
-UID:4803061-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803061\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Allianz Stadium\, Strada Comunale di Altessano 131\, Torino\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803061
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Juventus - Inter starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Juventus - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Ajax - Inter  (0-2)
-DTSTART:20250917T190000Z
-DTEND:20250917T204500Z
-DTSTAMP:20260606T074741Z
-UID:4947129-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947129\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Johan Cruijff ArenA\, ArenA Boulevard 1\, Amsterdam\, NLD
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947129
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Ajax - Inter starting in 15 minutes. Notifications can 
- be turned off in calendar settings
-SUMMARY:⚽️ Ajax - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Sassuolo  (2-1)
-DTSTART:20250921T184500Z
-DTEND:20250921T203000Z
-DTSTAMP:20260606T074741Z
-UID:4803074-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803074\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803074
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Sassuolo starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Sassuolo starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Cagliari - Inter  (0-2)
-DTSTART:20250927T184500Z
-DTEND:20250927T203000Z
-DTSTAMP:20260606T074741Z
-UID:4803078-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803078\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Unipol Domus\, Via Raimondo Carta Raspi\, Cagliari\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803078
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Cagliari - Inter starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Cagliari - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Slavia Prague  (3-0)
-DTSTART:20250930T190000Z
-DTEND:20250930T204500Z
-DTSTAMP:20260606T074741Z
-UID:4947128-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947128\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947128
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Slavia Prague starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Slavia Prague starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Cremonese  (4-1)
-DTSTART:20251004T160000Z
-DTEND:20251004T174500Z
-DTSTAMP:20260606T074741Z
-UID:4803091-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803091\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803091
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Cremonese starting in 15 minutes. Notifications
-  can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Cremonese starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Atletico Madrid - Inter  (5-3)
-DTSTART:20251010T162000Z
-DTEND:20251010T180500Z
-DTSTAMP:20260606T074741Z
-UID:4993908-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4993908\nClub Friendlies
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Benghazi International Stadium\, Sharia Gulf of Sirt\, Ras Abayda
- h\, Binġāzī (Benghazi)\, LBY
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4993908
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Atletico Madrid - Inter starting in 15 minutes. Notific
- ations can be turned off in calendar settings
-SUMMARY:⚽️ Atletico Madrid - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Roma - Inter  (0-1)
-DTSTART:20251018T184500Z
-DTEND:20251018T203000Z
-DTSTAMP:20260606T074741Z
-UID:4803106-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803106\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 2 / Via del Foro Italico
- \, Roma\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803106
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Roma - Inter starting in 15 minutes. Notifications can 
- be turned off in calendar settings
-SUMMARY:⚽️ Roma - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Union St.Gilloise - Inter  (0-4)
-DTSTART:20251021T190000Z
-DTEND:20251021T204500Z
-DTSTAMP:20260606T074741Z
-UID:4947131-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947131\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Lotto Park\, Avenue Théo Verbeeck 2\, Bruxelles (Brussel)\, BEL
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947131
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Union St.Gilloise - Inter starting in 15 minutes. Notif
- ications can be turned off in calendar settings
-SUMMARY:⚽️ Union St.Gilloise - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Napoli - Inter  (3-1)
-DTSTART:20251025T160000Z
-DTEND:20251025T174500Z
-DTSTAMP:20260606T074741Z
-UID:4803114-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803114\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Diego Armando Maradona\, Pizzale Vincenzo Tecchio\, Napoli
- \, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803114
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Napoli - Inter starting in 15 minutes. Notifications ca
- n be turned off in calendar settings
-SUMMARY:⚽️ Napoli - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Fiorentina  (3-0)
-DTSTART:20251029T194500Z
-DTEND:20251029T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803123-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803123\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803123
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Fiorentina starting in 15 minutes. Notification
- s can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Fiorentina starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Hellas Verona - Inter  (1-2)
-DTSTART:20251102T113000Z
-DTEND:20251102T131500Z
-DTSTAMP:20260606T074741Z
-UID:4803137-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803137\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Marcantonio Bentegodi\, Piazzale Olimpia\, Verona\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803137
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Hellas Verona - Inter starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Hellas Verona - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Kairat Almaty  (2-1)
-DTSTART:20251105T200000Z
-DTEND:20251105T214500Z
-DTSTAMP:20260606T074741Z
-UID:4947130-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947130\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947130
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Kairat Almaty starting in 15 minutes. Notificat
- ions can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Kairat Almaty starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Lazio  (2-0)
-DTSTART:20251109T194500Z
-DTEND:20251109T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803142-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803142\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803142
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Lazio starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Inter - Lazio starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Milan  (0-1)
-DTSTART:20251123T194500Z
-DTEND:20251123T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803152-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803152\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803152
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Milan starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Inter - Milan starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Atletico Madrid - Inter  (2-1)
-DTSTART:20251126T200000Z
-DTEND:20251126T214500Z
-DTSTAMP:20260606T074741Z
-UID:4947127-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947127\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Riyadh Air Metropolitano\, Avenida de Luis Aragonés\, 4\, San Bl
- as-Canillejas\, Madrid\, ESP
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947127
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Atletico Madrid - Inter starting in 15 minutes. Notific
- ations can be turned off in calendar settings
-SUMMARY:⚽️ Atletico Madrid - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Pisa - Inter  (0-2)
-DTSTART:20251130T140000Z
-DTEND:20251130T154500Z
-DTSTAMP:20260606T074741Z
-UID:4803166-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803166\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Via di Gello\, 25\, P
- isa\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803166
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Pisa - Inter starting in 15 minutes. Notifications can 
- be turned off in calendar settings
-SUMMARY:⚽️ Pisa - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Venezia  (5-1)
-DTSTART:20251203T200000Z
-DTEND:20251203T214500Z
-DTSTAMP:20260606T074741Z
-UID:4935212-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4935212\nCoppa Italia
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4935212
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Venezia starting in 15 minutes. Notifications c
- an be turned off in calendar settings
-SUMMARY:⚽️ Inter - Venezia starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Como  (4-0)
-DTSTART:20251206T170000Z
-DTEND:20251206T184500Z
-DTSTAMP:20260606T074741Z
-UID:4803170-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803170\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803170
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Como starting in 15 minutes. Notifications can 
- be turned off in calendar settings
-SUMMARY:⚽️ Inter - Como starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Liverpool  (0-1)
-DTSTART:20251209T200000Z
-DTEND:20251209T214500Z
-DTSTAMP:20260606T074741Z
-UID:4947124-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947124\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947124
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Liverpool starting in 15 minutes. Notifications
-  can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Liverpool starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Genoa - Inter  (1-2)
-DTSTART:20251214T170000Z
-DTEND:20251214T184500Z
-DTSTAMP:20260606T074741Z
-UID:4803181-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803181\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Comunale Luigi Ferraris\, Via Giovanni De Prà\, 1\, Genov
- a\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803181
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Genoa - Inter starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Genoa - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Bologna - Inter  (4-3)
-DTSTART:20251219T190000Z
-DTEND:20251219T204500Z
-DTSTAMP:20260606T074741Z
-UID:4934510-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4934510\nSuper Cup
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Al-Awwal Park\, Ash Shaikh Hasan Ibn Abdullah Al Ash Shaikh\, Kin
- g Saud University\, Ar-Riyāḍ (Riyadh)\, KSA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4934510
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Bologna - Inter starting in 15 minutes. Notifications c
- an be turned off in calendar settings
-SUMMARY:⚽️ Bologna - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Atalanta - Inter  (0-1)
-DTSTART:20251228T194500Z
-DTEND:20251228T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803207-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803207\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:New Balance Arena\, Viale Giulio Cesare 18\, Bergamo\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803207
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Atalanta - Inter starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Atalanta - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Bologna  (3-1)
-DTSTART:20260104T194500Z
-DTEND:20260104T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803213-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803213\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803213
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Bologna starting in 15 minutes. Notifications c
- an be turned off in calendar settings
-SUMMARY:⚽️ Inter - Bologna starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Parma - Inter  (0-2)
-DTSTART:20260107T194500Z
-DTEND:20260107T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803224-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803224\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Ennio Tardini\, Via Partigiani d'Italia\, 1\, Parma\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803224
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Parma - Inter starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Parma - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Napoli  (2-2)
-DTSTART:20260111T194500Z
-DTEND:20260111T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803232-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803232\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803232
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Napoli starting in 15 minutes. Notifications ca
- n be turned off in calendar settings
-SUMMARY:⚽️ Inter - Napoli starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Lecce  (1-0)
-DTSTART:20260114T194500Z
-DTEND:20260114T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803192-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803192\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803192
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Lecce starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Inter - Lecce starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Udinese - Inter  (0-1)
-DTSTART:20260117T140000Z
-DTEND:20260117T154500Z
-DTSTAMP:20260606T074741Z
-UID:4803245-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803245\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Bluenergy Stadium\, Piazza le Repubblica Argentina\, 3\, Udine\, 
- ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803245
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Udinese - Inter starting in 15 minutes. Notifications c
- an be turned off in calendar settings
-SUMMARY:⚽️ Udinese - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Arsenal  (1-3)
-DTSTART:20260120T200000Z
-DTEND:20260120T214500Z
-DTSTAMP:20260606T074741Z
-UID:4947126-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947126\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947126
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Arsenal starting in 15 minutes. Notifications c
- an be turned off in calendar settings
-SUMMARY:⚽️ Inter - Arsenal starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Pisa  (6-2)
-DTSTART:20260123T194500Z
-DTEND:20260123T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803252-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803252\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803252
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Pisa starting in 15 minutes. Notifications can 
- be turned off in calendar settings
-SUMMARY:⚽️ Inter - Pisa starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Borussia Dortmund - Inter  (0-2)
-DTSTART:20260128T200000Z
-DTEND:20260128T214500Z
-DTSTAMP:20260606T074741Z
-UID:4947125-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4947125\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:SIGNAL IDUNA PARK\, Strobelalle 50\, Dortmund\, GER
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4947125
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Borussia Dortmund - Inter starting in 15 minutes. Notif
- ications can be turned off in calendar settings
-SUMMARY:⚽️ Borussia Dortmund - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Cremonese - Inter  (0-2)
-DTSTART:20260201T170000Z
-DTEND:20260201T184500Z
-DTSTAMP:20260606T074741Z
-UID:4803261-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803261\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giovanni Zini\, Via Persico\, 19\, Cremona\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803261
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Cremonese - Inter starting in 15 minutes. Notifications
-  can be turned off in calendar settings
-SUMMARY:⚽️ Cremonese - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Torino  (2-1)
-DTSTART:20260204T200000Z
-DTEND:20260204T214500Z
-DTSTAMP:20260606T074741Z
-UID:4935227-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4935227\nCoppa Italia
-LAST-MODIFIED:20260606T074741Z
-LOCATION:U-Power Stadium\, Via Franco Tognini\, Monza\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4935227
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Torino starting in 15 minutes. Notifications ca
- n be turned off in calendar settings
-SUMMARY:⚽️ Inter - Torino starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Sassuolo - Inter  (0-5)
-DTSTART:20260208T170000Z
-DTEND:20260208T184500Z
-DTSTAMP:20260606T074741Z
-UID:4803269-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803269\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:MAPEI Stadium - Città del Tricolore\, Piazza Azzuri d'Italia\, 1
- \, Reggio Emilia\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803269
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Sassuolo - Inter starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Sassuolo - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Juventus  (3-2)
-DTSTART:20260214T194500Z
-DTEND:20260214T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803281-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803281\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803281
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Juventus starting in 15 minutes. Notifications 
- can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Juventus starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Bodø/Glimt - Inter  (3-1)
-DTSTART:20260218T200000Z
-DTEND:20260218T214500Z
-DTSTAMP:20260606T074741Z
-UID:5161861-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/5161861\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Aspmyra Stadion\, Håloglandsgata 30\, Bodø\, NOR
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/5161861
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Bodø/Glimt - Inter starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Bodø/Glimt - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Lecce - Inter  (0-2)
-DTSTART:20260221T170000Z
-DTEND:20260221T184500Z
-DTSTAMP:20260606T074741Z
-UID:4803294-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803294\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Ettore Giardiniero - Via del Mare\, Viale dello Stadio\, L
- ecce\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803294
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Lecce - Inter starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Lecce - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Bodø/Glimt  (1-2)
-DTSTART:20260224T200000Z
-DTEND:20260224T214500Z
-DTSTAMP:20260606T074741Z
-UID:5161862-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/5161862\nChampions League
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/5161862
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Bodø/Glimt starting in 15 minutes. Notificatio
- ns can be turned off in calendar settings
-SUMMARY:⚽️ Inter - Bodø/Glimt starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Inter - Genoa  (2-0)
-DTSTART:20260228T194500Z
-DTEND:20260228T213000Z
-DTSTAMP:20260606T074741Z
-UID:4803299-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4803299\nSerie A
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4803299
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Inter - Genoa starting in 15 minutes. Notifications can
-  be turned off in calendar settings
-SUMMARY:⚽️ Inter - Genoa starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽️ Como - Inter  (0-0)
-DTSTART:20260303T200000Z
-DTEND:20260303T214500Z
-DTSTAMP:20260606T074741Z
-UID:4935321-8636@fotmob.com
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:https://www.fotmob.com/match/4935321\nCoppa Italia
-LAST-MODIFIED:20260606T074741Z
-LOCATION:Stadio Giuseppe Sinigaglia\, Via Giuseppe Sinigaglia\, 3\, Como\,
-  ITA
-TRANSP:TRANSPARENT
-URL:https://www.fotmob.com/match/4935321
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽️ Como - Inter starting in 15 minutes. Notifications can 
- be turned off in calendar settings
-SUMMARY:⚽️ Como - Inter starting in 15 minutes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽️ Milan - Inter  (1-0)
 DTSTART:20260308T194500Z
 DTEND:20260308T213000Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803316-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803316\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803316
@@ -1034,12 +32,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Atalanta  (1-1)
 DTSTART:20260314T140000Z
 DTEND:20260314T154500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803320-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803320\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803320
@@ -1055,12 +53,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Fiorentina - Inter  (1-1)
 DTSTART:20260322T194500Z
 DTEND:20260322T213000Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803332-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803332\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Artemio Franchi\, Viale Manfredo Fanti 14\, Firenze\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803332
@@ -1076,12 +74,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Roma  (5-2)
 DTSTART:20260405T184500Z
 DTEND:20260405T203000Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803339-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803339\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803339
@@ -1097,12 +95,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Como - Inter  (3-4)
 DTSTART:20260412T184500Z
 DTEND:20260412T203000Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803351-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803351\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Sinigaglia\, Via Giuseppe Sinigaglia\, 3\, Como\,
   ITA
 TRANSP:TRANSPARENT
@@ -1119,12 +117,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Cagliari  (3-0)
 DTSTART:20260417T184500Z
 DTEND:20260417T203000Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803358-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803358\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803358
@@ -1140,12 +138,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Como  (3-2)
 DTSTART:20260421T190000Z
 DTEND:20260421T204500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4935323-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4935323\nCoppa Italia
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4935323
@@ -1161,12 +159,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Torino - Inter  (2-2)
 DTSTART:20260426T160000Z
 DTEND:20260426T174500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803376-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803376\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Olimpico Grande Torino\, Corso Sebastopoli 123\, Santa Rit
  a\, Torino\, ITA
 TRANSP:TRANSPARENT
@@ -1183,12 +181,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Parma  (2-0)
 DTSTART:20260503T184500Z
 DTEND:20260503T203000Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803382-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803382\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803382
@@ -1204,12 +202,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Lazio - Inter  (0-3)
 DTSTART:20260509T160000Z
 DTEND:20260509T174500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803392-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803392\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 2 / Via del Foro Italico
  \, Roma\, ITA
 TRANSP:TRANSPARENT
@@ -1226,12 +224,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Lazio - Inter  (0-2)
 DTSTART:20260513T190000Z
 DTEND:20260513T204500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4935324-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4935324\nCoppa Italia
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 2 / Via del Foro Italico
  \, Roma\, ITA
 TRANSP:TRANSPARENT
@@ -1248,12 +246,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Hellas Verona  (1-1)
 DTSTART:20260517T130000Z
 DTEND:20260517T144500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803402-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803402\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Giuseppe Meazza\, Via Piccolomini 5\, Milano\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803402
@@ -1269,12 +267,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Bologna - Inter  (3-3)
 DTSTART:20260523T160000Z
 DTEND:20260523T174500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:4803408-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/4803408\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Renato Dall'Ara\, Via Andrea Costa\, 174\, Bologna\, ITA
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/4803408
@@ -1290,12 +288,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Manchester City - Inter
 DTSTART:20260801T100000Z
 DTEND:20260801T114500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5406269-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5406269\nClub Friendlies
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5406269
 BEGIN:VALARM
@@ -1310,12 +308,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Milan - Inter
 DTSTART:20260805T100000Z
 DTEND:20260805T114500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5449691-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5449691\nClub Friendlies
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5449691
 BEGIN:VALARM
@@ -1330,12 +328,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Juventus - Inter
 DTSTART:20260808T100000Z
 DTEND:20260808T114500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5449692-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5449692\nClub Friendlies
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5449692
 BEGIN:VALARM
@@ -1350,12 +348,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Monza
 DTSTART:20260823T163000Z
 DTEND:20260823T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749645-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749645\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749645
@@ -1371,12 +369,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Cagliari - Inter
 DTSTART:20260830T163000Z
 DTEND:20260830T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749652-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749652\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Unipol Domus
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749652
@@ -1392,12 +390,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Napoli
 DTSTART:20260906T163000Z
 DTEND:20260906T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749666-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749666\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749666
@@ -1413,12 +411,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Udinese
 DTSTART:20260913T163000Z
 DTEND:20260913T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749673-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749673\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749673
@@ -1434,12 +432,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Roma - Inter
 DTSTART:20260920T163000Z
 DTEND:20260920T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749681-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749681\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Olimpico\, Rome
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749681
@@ -1455,12 +453,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Parma
 DTSTART:20261011T163000Z
 DTEND:20261011T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749694-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749694\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749694
@@ -1476,12 +474,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Bologna - Inter
 DTSTART:20261018T163000Z
 DTEND:20261018T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749702-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749702\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Renato Dell'Ara
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749702
@@ -1497,12 +495,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Fiorentina
 DTSTART:20261025T173000Z
 DTEND:20261025T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749714-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749714\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749714
@@ -1518,12 +516,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Venezia - Inter
 DTSTART:20261028T173000Z
 DTEND:20261028T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749729-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749729\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Pierluigi Penzo
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749729
@@ -1539,12 +537,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Milan - Inter
 DTSTART:20261101T173000Z
 DTEND:20261101T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749730-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749730\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:San Siro
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749730
@@ -1560,12 +558,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Como
 DTSTART:20261108T173000Z
 DTEND:20261108T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749744-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749744\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749744
@@ -1581,12 +579,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Atalanta - Inter
 DTSTART:20261122T173000Z
 DTEND:20261122T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749751-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749751\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:New Balance Arena
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749751
@@ -1602,12 +600,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Genoa
 DTSTART:20261129T173000Z
 DTEND:20261129T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749764-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749764\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749764
@@ -1623,12 +621,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Frosinone - Inter
 DTSTART:20261206T173000Z
 DTEND:20261206T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749773-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749773\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Benito Stirpe
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749773
@@ -1644,12 +642,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Torino
 DTSTART:20261213T173000Z
 DTEND:20261213T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749783-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749783\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749783
@@ -1665,12 +663,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Lecce - Inter
 DTSTART:20261220T173000Z
 DTEND:20261220T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749796-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749796\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Ettore Giardiniero - Via del Mare
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749796
@@ -1686,12 +684,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Sassuolo
 DTSTART:20270103T173000Z
 DTEND:20270103T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749805-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749805\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749805
@@ -1707,12 +705,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Lazio - Inter
 DTSTART:20270106T173000Z
 DTEND:20270106T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749815-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749815\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Olimpico\, Rome
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749815
@@ -1728,12 +726,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Juventus
 DTSTART:20270110T173000Z
 DTEND:20270110T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749825-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749825\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749825
@@ -1749,12 +747,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Parma - Inter
 DTSTART:20270117T173000Z
 DTEND:20270117T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749837-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749837\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Ennio Tardini
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749837
@@ -1770,12 +768,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Venezia
 DTSTART:20270124T173000Z
 DTEND:20270124T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749846-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749846\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749846
@@ -1791,12 +789,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Napoli - Inter
 DTSTART:20270131T173000Z
 DTEND:20270131T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749856-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749856\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Diego Armando Maradona
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749856
@@ -1812,12 +810,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Cagliari
 DTSTART:20270207T173000Z
 DTEND:20270207T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749865-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749865\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749865
@@ -1833,12 +831,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Milan
 DTSTART:20270214T173000Z
 DTEND:20270214T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749875-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749875\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749875
@@ -1854,12 +852,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Fiorentina - Inter
 DTSTART:20270221T173000Z
 DTEND:20270221T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749883-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749883\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Artemio Franchi\, Firenze
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749883
@@ -1875,12 +873,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Atalanta
 DTSTART:20270228T173000Z
 DTEND:20270228T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749896-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749896\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749896
@@ -1896,12 +894,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Udinese - Inter
 DTSTART:20270307T173000Z
 DTEND:20270307T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749909-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749909\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Bluenergy Stadium - Stadio Friuli
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749909
@@ -1917,12 +915,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Torino - Inter
 DTSTART:20270314T173000Z
 DTEND:20270314T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749918-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749918\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Olimpico Grande Torino
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749918
@@ -1938,12 +936,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Frosinone
 DTSTART:20270321T173000Z
 DTEND:20270321T191500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749923-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749923\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749923
@@ -1959,12 +957,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Genoa - Inter
 DTSTART:20270404T163000Z
 DTEND:20270404T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749935-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749935\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Luigi Ferraris
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749935
@@ -1980,12 +978,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Roma
 DTSTART:20270411T163000Z
 DTEND:20270411T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749944-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749944\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749944
@@ -2001,12 +999,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Monza - Inter
 DTSTART:20270418T163000Z
 DTEND:20270418T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749956-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749956\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:U-Power Stadium
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749956
@@ -2022,12 +1020,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Bologna
 DTSTART:20270425T163000Z
 DTEND:20270425T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749963-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749963\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749963
@@ -2043,12 +1041,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Como - Inter
 DTSTART:20270502T163000Z
 DTEND:20270502T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749974-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749974\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio G. Sinigaglia
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749974
@@ -2064,12 +1062,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Lecce
 DTSTART:20270509T163000Z
 DTEND:20270509T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749983-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749983\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749983
@@ -2085,12 +1083,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Juventus - Inter
 DTSTART:20270516T163000Z
 DTEND:20270516T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5749994-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5749994\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Allianz Stadium
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5749994
@@ -2106,12 +1104,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Inter - Lazio
 DTSTART:20270523T163000Z
 DTEND:20270523T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5750005-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5750005\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Giuseppe Meazza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5750005
@@ -2127,12 +1125,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Sassuolo - Inter
 DTSTART:20270530T163000Z
 DTEND:20270530T181500Z
-DTSTAMP:20260606T074741Z
+DTSTAMP:20260607T083305Z
 UID:5750019-8636@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5750019\nSerie A
-LAST-MODIFIED:20260606T074741Z
+LAST-MODIFIED:20260607T083305Z
 LOCATION:Stadio Mapei - Citta del Tricolore
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5750019
