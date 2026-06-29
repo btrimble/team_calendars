@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Illinois State (Exh.)
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28027-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Illinois State (Exh.)\nW 92-65 
  \nTV: B1G+\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: http
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Jackson State
 DTSTART:20251104T013000Z
 DTEND:20251104T033000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28028-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Jackson State\nW 113-55\nTV: BT
  N\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https://theva
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Florida Gulf Coast
 DTSTART:20251108T013000Z
 DTEND:20251108T033000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28029-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Florida Gulf Coast\nW 113-70\nT
  V: Peacock\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: http
@@ -58,7 +58,7 @@ SUMMARY:[W] Illini Men's Basketball vs Texas Tech - Orange Krush Philanthr
  opy Night
 DTSTART:20251112T013000Z
 DTEND:20251112T033000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_26845-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Texas Tech - Orange Krush Phila
  nthropy Night\nW 81-77\nTV: FS1\nRadio: Busey Bank Illini Sports Network\n
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Colgate - International Night
 DTSTART:20251115T020000Z
 DTEND:20251115T040000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28030-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Colgate - International Night\n
  W 84-65 \nTV: B1G+\nRadio: Busey Bank Illini Sports Network\nStreaming Aud
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:[L] Illini Men's Basketball vs Alabama
 DTSTART:20251120T020000Z
 DTEND:20251120T040000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_26844-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball vs Alabama\nL 86-90\nTV: FS1\nRadi
  o: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsityne
@@ -108,7 +108,7 @@ SUMMARY:[W] Illini Men's Basketball vs Long Island - Orange Krush Experien
  ce
 DTSTART:20251122T190000Z
 DTEND:20251122T210000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28031-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Long Island - Orange Krush Expe
  rience\nW 98-58 \nTV: B1G+\nRadio: Busey Bank Illini Sports Network\nStrea
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs UT Rio Grande Valley
 DTSTART:20251125T010000Z
 DTEND:20251125T030000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28032-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs UT Rio Grande Valley\nW 87-73\n
  TV: BTN\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https:/
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:[L] Illini Men's Basketball vs UConn
 DTSTART:20251128T173000Z
 DTEND:20251128T193000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28025-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball vs UConn\nL 61-74\nTV: FOX\nRadio:
   Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsitynetw
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Tennessee
 DTSTART:20251207T010000Z
 DTEND:20251207T030000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_27451-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Tennessee\nW 75-62\nTV: ESPN\nR
  adio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsit
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Ohio State
 DTSTART:20251210T003000Z
 DTEND:20251210T023000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28498-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Ohio State\nW 88-80\nTV: Peacoc
  k\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https://theva
@@ -189,7 +189,7 @@ SUMMARY:[L] Illini Men's Basketball vs Nebraska - Big Ten Home Opener | Ce
  lebrate Ag Day
 DTSTART:20251213T210000Z
 DTEND:20251213T230000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28499-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball vs Nebraska - Big Ten Home Opener 
  | Celebrate Ag Day\nL 80-83\nTV: Peacock\nRadio: Busey Bank Illini Sports 
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Missouri
 DTSTART:20251223T010000Z
 DTEND:20251223T030000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28026-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Missouri\nW 91-48 \nTV: FS1\nRa
  dio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsity
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Southern
 DTSTART:20251229T200000Z
 DTEND:20251229T220000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28033-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Southern\nW 90-55\nTV: BTN\nRad
  io: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsityn
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Penn State
 DTSTART:20260104T000000Z
 DTEND:20260104T020000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28500-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Penn State\nW 73-65\nTV: BTN\nR
  adio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsit
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Rutgers
 DTSTART:20260109T013000Z
 DTEND:20260109T033000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28501-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Rutgers\nW 81-55\nTV: BTN\nRadi
  o: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsityne
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Iowa
 DTSTART:20260111T170000Z
 DTEND:20260111T190000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28502-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Iowa\nW 75-69 \nTV: FOX\nRadio:
   Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsitynetw
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Northwestern
 DTSTART:20260115T013000Z
 DTEND:20260115T033000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28503-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Northwestern\nW 79-68\nTV: BTN\
  nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevars
@@ -303,7 +303,7 @@ SUMMARY:[W] Illini Men's Basketball vs Minnesota - Varsity I Men's Basketb
  all Reunion
 DTSTART:20260117T170000Z
 DTEND:20260117T190000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28504-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Minnesota - Varsity I Men's Bas
  ketball Reunion\nW 77-67\nTV: BTN\nRadio: Busey Bank Illini Sports Network
@@ -321,7 +321,7 @@ SUMMARY:[W] Illini Men's Basketball vs Maryland - Student Replica Jersey G
  iveaway
 DTSTART:20260122T000000Z
 DTEND:20260122T020000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28505-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Maryland - Student Replica Jers
  ey Giveaway\nW 89-70\nTV: BTN\nRadio: Busey Bank Illini Sports Network\nSt
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Purdue
 DTSTART:20260124T200000Z
 DTEND:20260124T220000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28506-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Purdue\nW 88-82\nTV: FOX\nRadio
  : Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsitynet
@@ -354,7 +354,7 @@ SUMMARY:[W] Illini Men's Basketball vs Washington - Military Appreciation
  / Krush Cancer / Coaches vs. Cancer
 DTSTART:20260130T020000Z
 DTEND:20260130T040000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28507-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Washington - Military Appreciat
  ion / Krush Cancer / Coaches vs. Cancer\nW 75-66\nTV: FS1\nRadio: Busey Ba
@@ -372,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Nebraska
 DTSTART:20260201T210000Z
 DTEND:20260201T230000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28508-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Nebraska\nW 78-69 \nTV: FS1\nRa
  dio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsity
@@ -388,7 +388,7 @@ SUMMARY:[W] Illini Men's Basketball vs Northwestern - Hail to the Orange O
  ut - presented by Gameday Spirit
 DTSTART:20260205T020000Z
 DTEND:20260205T040000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28509-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Northwestern - Hail to the Oran
  ge Out - presented by Gameday Spirit\nW 84-44\nTV: BTN\nRadio: Busey Bank 
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:[L] Illini Men's Basketball at Michigan State
 DTSTART:20260208T010000Z
 DTEND:20260208T030000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28510-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball at Michigan State\nL 82-85 OT\nTV:
   FOX\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https://th
@@ -422,7 +422,7 @@ SUMMARY:[L] Illini Men's Basketball vs Wisconsin - Jake Davis Wig Giveaway
   for Students
 DTSTART:20260211T010000Z
 DTEND:20260211T030000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28511-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball vs Wisconsin - Jake Davis Wig Give
  away for Students\nL 90-92 OT\nTV: NBCSN & Peacock\nRadio: Busey Bank Illi
@@ -440,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Indiana - Stripe State Farm Center
 DTSTART:20260215T180000Z
 DTEND:20260215T200000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28512-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Indiana - Stripe State Farm Cen
  ter\nW 71-51 \nTV: CBS\nRadio: Busey Bank Illini Sports Network\nStreaming
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Southern California
 DTSTART:20260219T030000Z
 DTEND:20260219T050000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28513-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Southern California\nW 101-65\n
  TV: BTN\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https:/
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:[L] Illini Men's Basketball at UCLA
 DTSTART:20260222T010000Z
 DTEND:20260222T030000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28514-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball at UCLA\nL 94-95 OT\nTV: FOX\nRadi
  o: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsityne
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:[L] Illini Men's Basketball vs Michigan - Fighting Illini 500
 DTSTART:20260228T010000Z
 DTEND:20260228T030000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28515-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball vs Michigan - Fighting Illini 500\
  nL 70-84\nTV: FOX\nRadio: Busey Bank Illini Sports Network\nStreaming Audi
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Oregon - Senior Night
 DTSTART:20260304T020000Z
 DTEND:20260304T040000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28516-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Oregon - Senior Night\nW 80-54 
  \nTV: NBCSN & Peacock\nRadio: Busey Bank Illini Sports Network\nStreaming 
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Maryland
 DTSTART:20260308T190000Z
 DTEND:20260308T210000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28517-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Maryland\nW 78-72 \nTV: FOX\nRa
  dio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsity
@@ -536,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:[L] Illini Men's Basketball vs Wisconsin
 DTSTART:20260313T183000Z
 DTEND:20260313T203000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28518-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball vs Wisconsin\nL 88-91 OT\nTV: BTN\
  nRadio: Busey Bank Illini Sports Network\nStreaming Video: https://bigten.
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Penn
 DTSTART:20260320T012500Z
 DTEND:20260320T032500Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_28519-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Penn\nW 105-70\nTV: TNT\nRadio:
   Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsitynetw
@@ -566,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs VCU
 DTSTART:20260321T235000Z
 DTEND:20260322T015000Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_29247-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs VCU\nW 76-55\nTV: CBS\nRadio: B
  usey Bank Illini Sports Network\nStreaming Audio: https://thevarsitynetwor
@@ -580,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Houston
 DTSTART:20260327T020500Z
 DTEND:20260327T040500Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_29248-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Houston\nW 65-55\nTV: TBS/TruTV
  \nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevar
@@ -595,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball vs Iowa
 DTSTART:20260328T220900Z
 DTEND:20260329T000900Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_29251-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball vs Iowa\nW 71-59\nTV: TBS/truTV\nR
  adio: Busey Bank Illini Sports Network\nStreaming Audio: https://thevarsit
@@ -610,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:[L] Illini Men's Basketball vs UConn
 DTSTART:20260404T220900Z
 DTEND:20260405T000900Z
-DTSTAMP:20260628T084216Z
+DTSTAMP:20260629T102629Z
 UID:vcal_29252-admin.fightingillini.com
 DESCRIPTION:[L] Illini Men's Basketball vs UConn\nL 62-71 \nTV: TBS/TNT/Tr
  uTV\nRadio: Busey Bank Illini Sports Network\nStreaming Audio: https://the
