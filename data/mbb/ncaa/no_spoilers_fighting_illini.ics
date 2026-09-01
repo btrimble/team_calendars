@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Cincinnati
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29429-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Cincinnati
 LOCATION:Cincinnati\, Ohio
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Baylor
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29430-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Baylor
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UIC
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29431-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UIC
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs FDU
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29432-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs FDU
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Penn
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29433-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Penn
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Texas Tech
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29434-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Texas Tech
 LOCATION:Lubbock\, Texas
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Sam Houston
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29435-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Sam Houston
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Duke
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29436-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Duke
 LOCATION:Durham\, N.C.
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Eastern Illinois
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29437-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Eastern Illinois
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs throp
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29438-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs throp
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Western Kentucky
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29439-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Western Kentucky
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UConn
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29440-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UConn\nTickets: https://fightingill
  ini.evenue.net/event/B26/UC
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Missouri
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29441-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Missouri
 LOCATION:St. Louis\, Mo.\, Enterprise Center
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Seattle
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29442-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Seattle
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs North Carolina
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29443-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs North Carolina
 LOCATION:Nashville\, Tenn.\, Bridgestone Arena
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Big Ten Tournament
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29444-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Big Ten Tournament
 LOCATION:Indianapolis\, Ind.\, Gainbridge Fieldhouse
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs NCAA Tournament
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20260831T121743Z
+DTSTAMP:20260901T105221Z
 UID:vcal_29445-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs NCAA Tournament
 LOCATION:TBA
