@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:First qualifying round draw
 DTSTART:20260616T140000Z
 DTEND:20260616T150000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:bb02dc08a7180f52065a95173ccaa1e2
 DESCRIPTION:UEFA Champions League\n\n
 LOCATION:Live on UEFA.com
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Second qualifying round draw
 DTSTART:20260617T100000Z
 DTEND:20260617T110000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:bbd586d9dfadeb6636dc123174e14111
 DESCRIPTION:UEFA Champions League\n\n
 LOCATION:Live on UEFA.com
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Third qualifying round draw
 DTSTART:20260720T100000Z
 DTEND:20260720T110000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:1ffe8aef4f54700fe0abcf2804128fe5
 DESCRIPTION:UEFA Champions League\n\n
 LOCATION:Live on UEFA.com
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Play-off round draw
 DTSTART:20260803T100000Z
 DTEND:20260803T110000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:9f219fdd8cdbf766783ba246e2e1b0d6
 DESCRIPTION:UEFA Champions League\n\n
 LOCATION:Live on UEFA.com
@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:League phase draw
 DTSTART:20260827T160000Z
 DTEND:20260827T170000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:b1a78cb0304ad0725e3f3d397ab4637c
-DESCRIPTION:UEFA Champions League
+DESCRIPTION:UEFA Champions League\n\n
 LOCATION:Live on UEFA.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Porto v Man City
 DTSTART:20260908T190000Z
 DTEND:20260908T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:103b4905cdeb7841449bd09ac0025883
 DESCRIPTION:Estádio do Dragão\, Porto\n\nUEFA Champions League\nLeague p
  hase\, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/2049555/\n\nS
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid v Inter
 DTSTART:20260908T190000Z
 DTEND:20260908T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:876c4983a8100cb18adb625145bde105
 DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\n
  League phase\, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/20495
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona v Feyenoord
 DTSTART:20260909T164500Z
 DTEND:20260909T184500Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:1341714c693cedc68b83649b2af259df
 DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, 
  MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/2049561/\n\nSee the 
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool v Atleti
 DTSTART:20260909T190000Z
 DTEND:20260909T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:ca7455e037be6ecb2704614af7887d9a
 DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, M
  D1\n\nhttps://www.uefa.com/uefachampionsleague/match/2049560/\n\nSee the f
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Paris v S. Bratislava
 DTSTART:20260909T190000Z
 DTEND:20260909T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:f07742955fb97c669df3ccff13d775f9
 DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phas
  e\, MD1\n\nhttps://www.uefa.com/uefachampionsleague/match/2049559/\n\nSee 
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Inter v Club Brugge
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:826ce4a684add67b8a20f3fa51e71c50
 DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase
  \, MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/2049571/\n\nSee t
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Galatasaray v Barcelona
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:ac9c639fc27daca48e9acaa104938b6e
 DESCRIPTION:Ali Sami Yen Spor Kompleksi\, Istanbul\n\nUEFA Champions Leagu
  e\nLeague phase\, MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/20
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:LASK v Liverpool
 DTSTART:20261014T164500Z
 DTEND:20261014T184500Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:5a5a0bfaa5d15ed85ba19e65a381b656
 DESCRIPTION:Oberösterreich Arena\, Linz\n\nUEFA Champions League\nLeague 
  phase\, MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/2049588/\n\n
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Man City v Paris
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:1b064b2ef30c8ddec20a3eea4c6c80d3
 DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leag
  ue\nLeague phase\, MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/2
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Roma v Real Madrid
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:3035c296dde981a8cb29fbe5fd7c1101
 DESCRIPTION:Stadio Olimpico\, Rome\n\nUEFA Champions League\nLeague phase\
  , MD2\n\nhttps://www.uefa.com/uefachampionsleague/match/2049581/\n\nSee th
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Paris v Barcelona
 DTSTART:20261020T190000Z
 DTEND:20261020T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:07e1ad7dad3b64d9339488ecb642aa34
 DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phas
  e\, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/2049589/\n\nSee 
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Man City v AEK Athens
 DTSTART:20261020T190000Z
 DTEND:20261020T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:21abf6b78f285e112ecc4ce2caba5ab8
 DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leag
  ue\nLeague phase\, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/2
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool v Villarreal
 DTSTART:20261020T190000Z
 DTEND:20261020T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:271b99d738a1dbe46d554ac0398ccc60
 DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, M
  D3\n\nhttps://www.uefa.com/uefachampionsleague/match/2049590/\n\nSee the f
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid v Leipzig
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:0d43cd71bac84f8e9773547f710237fa
 DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\n
  League phase\, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/20495
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Inter v Shakhtar
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:81f524c9ce4308a0a95aad47b602f288
 DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase
  \, MD3\n\nhttps://www.uefa.com/uefachampionsleague/match/2049600/\n\nSee t
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Villarreal v Paris
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:04c4ce5a6a86d48c615a1fc6fffe8fde
 DESCRIPTION:Estadio de la Cerámica\, Villarreal\n\nUEFA Champions League\
  nLeague phase\, MD4\n\nhttps://www.uefa.com/uefachampionsleague/match/2049
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona v Aston Villa
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:05aa60d861b560aa2c6b077587a520fa
 DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, 
  MD4\n\nhttps://www.uefa.com/uefachampionsleague/match/2049607/\n\nSee the 
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Feyenoord v Inter
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:70601a49536dee0a26bb7f5f0499d7d6
 DESCRIPTION:Stadion Feijenoord 'De Kuip'\, Rotterdam\n\nUEFA Champions Lea
  gue\nLeague phase\, MD4\n\nhttps://www.uefa.com/uefachampionsleague/match/
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Fenerbahçe v Liverpool
 DTSTART:20261104T174500Z
 DTEND:20261104T194500Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:3684362098c843b554810ded0f849bbf
 DESCRIPTION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul\n\nU
  EFA Champions League\nLeague phase\, MD4\n\nhttps://www.uefa.com/uefachamp
@@ -423,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:AEK Athens v Real Madrid
 DTSTART:20261104T174500Z
 DTEND:20261104T194500Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:dbbeebe45eea8b7c00925f95e02a7551
 DESCRIPTION:AEK Arena\, Athens\n\nUEFA Champions League\nLeague phase\, MD
  4\n\nhttps://www.uefa.com/uefachampionsleague/match/2049622/\n\nSee the fu
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:Leipzig v Man City
 DTSTART:20261104T200000Z
 DTEND:20261104T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:00a409a01a9d8fb665ab12efa73b22e9
 DESCRIPTION:RB Arena\, Leipzig\n\nUEFA Champions League\nLeague phase\, MD
  4\n\nhttps://www.uefa.com/uefachampionsleague/match/2049619/\n\nSee the fu
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid v PSV
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:b37a4bd7e37230c78b0ca610db7b80b2
 DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\n
  League phase\, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/20496
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:Man City v Napoli
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:ca1ce7fe13a4d1d9992678c7437f6408
 DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leag
  ue\nLeague phase\, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Sabah v Barcelona
 DTSTART:20261125T174500Z
 DTEND:20261125T194500Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:f8a576c033d4e4c34e8f1849c7e674f5
 DESCRIPTION:UEFA Champions League\nLeague phase\, MD5\n\nhttps://www.uefa.
  com/uefachampionsleague/match/2049642/\n\nSee the full match calendar for 
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:Club Brugge v Liverpool
 DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:1b8d10d1baeaf2808d28f748e88a9d40
 DESCRIPTION:Jan Breydelstadion\, Bruges\n\nUEFA Champions League\nLeague p
  hase\, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2049638/\n\nS
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Paris v Roma
 DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:33f942548358cbab2b352586455ea553
 DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phas
  e\, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2049634/\n\nSee 
@@ -548,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Inter v Stuttgart
 DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:563bcdc563a37958b9f21ead51b45d3b
 DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase
  \, MD5\n\nhttps://www.uefa.com/uefachampionsleague/match/2049635/\n\nSee t
@@ -566,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:Aston Villa v Paris
 DTSTART:20261208T200000Z
 DTEND:20261208T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:2135e01e60c0f62a7108b6906bc5b7c1
 DESCRIPTION:Villa Park\, Birmingham\n\nUEFA Champions League\nLeague phase
  \, MD6\n\nhttps://www.uefa.com/uefachampionsleague/match/2049646/\n\nSee t
@@ -584,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona v Man City
 DTSTART:20261208T200000Z
 DTEND:20261208T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:21b3ae43462c274d69f8ab480f7d750d
 DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, 
  MD6\n\nhttps://www.uefa.com/uefachampionsleague/match/2049644/\n\nSee the 
@@ -602,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:B. Dortmund v Inter
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:13244570d08d89a89c182467279b6e99
 DESCRIPTION:BVB Stadion Dortmund\, Dortmund\n\nUEFA Champions League\nLeag
  ue phase\, MD6\n\nhttps://www.uefa.com/uefachampionsleague/match/2049654/\
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Arsenal v Real Madrid
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:2e2bc90986d38beb8580c2c0f3d4ac7b
 DESCRIPTION:Arsenal Stadium\, London\n\nUEFA Champions League\nLeague phas
  e\, MD6\n\nhttps://www.uefa.com/uefachampionsleague/match/2049653/\n\nSee 
@@ -638,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool v Porto
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:c9ca7b219673ac8c5d54bc7ae7d8df46
 DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, M
  D6\n\nhttps://www.uefa.com/uefachampionsleague/match/2049652/\n\nSee the f
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:Real Madrid v LASK
 DTSTART:20270119T200000Z
 DTEND:20270119T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:77f53518800ab4e550a4caa5a6bb4f2e
 DESCRIPTION:Estadio Santiago Bernabéu\, Madrid\n\nUEFA Champions League\n
  League phase\, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/20496
@@ -674,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:Inter v Liverpool
 DTSTART:20270119T200000Z
 DTEND:20270119T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:b74d61a00e306a18ce13c9f295e42fd0
 DESCRIPTION:Stadio San Siro\, Milan\n\nUEFA Champions League\nLeague phase
  \, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/2049662/\n\nSee t
@@ -692,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:Sporting CP v Barcelona
 DTSTART:20270120T200000Z
 DTEND:20270120T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:0de62bf14207db5c69a088b4b512da0f
 DESCRIPTION:Estádio José Alvalade\, Lisbon\n\nUEFA Champions League\nLea
  gue phase\, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/2049670/
@@ -710,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:Como v Paris
 DTSTART:20270120T200000Z
 DTEND:20270120T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:11eb2a012a07fa40689ce3ebdcb12d3d
 DESCRIPTION:Giuseppe Sinigaglia\, Como\n\nUEFA Champions League\nLeague ph
  ase\, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/2049675/\n\nSe
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Lens v Man City
 DTSTART:20270120T200000Z
 DTEND:20270120T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:4d5a4522d97f15280df9d50fcd134d94
 DESCRIPTION:Stade Bollaert-Delelis\, Lens Agglo\n\nUEFA Champions League\n
  League phase\, MD7\n\nhttps://www.uefa.com/uefachampionsleague/match/20496
@@ -746,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:Shakhtar v Real Madrid
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:7904605c94ef30f3a747a5fff9680337
 DESCRIPTION:Stamford Bridge\, London\n\nUEFA Champions League\nLeague phas
  e\, MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/2049693/\n\nSee 
@@ -764,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:Man City v Sporting CP
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:9a45948686310fbd8471a52ce4042097
 DESCRIPTION:City of Manchester Stadium\, Manchester\n\nUEFA Champions Leag
  ue\nLeague phase\, MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/2
@@ -782,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:Barcelona v Como
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:acd2e382744a60b3bc2c0d7882fdddde
 DESCRIPTION:Camp Nou\, Barcelona\n\nUEFA Champions League\nLeague phase\, 
  MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/2049684/\n\nSee the 
@@ -800,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:S. Bratislava v Inter
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:c6e39eb48c1c284a8d4e1893e72131df
 DESCRIPTION:Národný futbalový štadión \, Bratislava\n\nUEFA Champions
   League\nLeague phase\, MD8\n\nhttps://www.uefa.com/uefachampionsleague/ma
@@ -818,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:Liverpool v Lens
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:f79976d755423faa5cbe847352727396
 DESCRIPTION:Anfield\, Liverpool\n\nUEFA Champions League\nLeague phase\, M
  D8\n\nhttps://www.uefa.com/uefachampionsleague/match/2049681/\n\nSee the f
@@ -836,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Paris v Galatasaray
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
-DTSTAMP:20260902T100000Z
+DTSTAMP:20260903T100000Z
 UID:fd9667c3f467e38d6d2bbfc76fc6d861
 DESCRIPTION:Parc des Princes\, Paris\n\nUEFA Champions League\nLeague phas
  e\, MD8\n\nhttps://www.uefa.com/uefachampionsleague/match/2049679/\n\nSee 
