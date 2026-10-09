@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Cincinnati (Exh.)
 DTSTART:20261017T210000Z
 DTEND:20261017T230000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29429-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Cincinnati (Exh.)
 LOCATION:Cincinnati\, Ohio
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Baylor (Exh.)
 DTSTART:20261024T000000Z
 DTEND:20261024T020000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29430-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Baylor (Exh.)\nTV: B1G+\nStreaming 
  Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UIC (Exh.)
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29431-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UIC (Exh.)\nTV: B1G+
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs FDU
 DTSTART:20261103T010000Z
 DTEND:20261103T030000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29432-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs FDU\nTV: BTN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Penn
 DTSTART:20261106T013000Z
 DTEND:20261106T033000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29433-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Penn\nTV: FS1
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Texas Tech
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29434-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Texas Tech\nTV: TBA
 LOCATION:Lubbock\, Texas
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Sam Houston
 DTSTART:20261114T000000Z
 DTEND:20261114T020000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29435-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Sam Houston\nTV: B1G+
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -91,11 +91,11 @@ URL:https://admin.fightingillini.com/calendar.aspx?game_id=29435&amp;sport
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Duke
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261008T123307Z
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29436-admin.fightingillini.com
-DESCRIPTION:Illini Men's Basketball at Duke\nTV: TBA
+DESCRIPTION:Illini Men's Basketball at Duke\nTV: ESPN
 LOCATION:Durham\, N.C.
 PRIORITY:3
 URL:https://admin.fightingillini.com/calendar.aspx?game_id=29436&amp;sport
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Eastern Illinois
 DTSTART:20261121T020000Z
 DTEND:20261121T040000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29437-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Eastern Illinois\nTV: BTN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs throp
 DTSTART:20261124T010000Z
 DTEND:20261124T030000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29438-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs throp\nTV: BTN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Western Kentucky
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29439-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Western Kentucky\nTV: FS1
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UConn
 DTSTART:20261205T000000Z
 DTEND:20261205T020000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29440-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UConn\nTV: FOX\nTickets: https://fi
  ghtingillini.evenue.net/event/B26/UC
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Minnesota
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29603-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Minnesota\nTV: Peacock/NBCSN
 LOCATION:Minneapolis\, Minn.
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Penn State
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29604-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Penn State\nTV: FS1
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -176,11 +176,11 @@ URL:https://admin.fightingillini.com/calendar.aspx?game_id=29604&amp;sport
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Missouri
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DTSTAMP:20261008T123307Z
+DTSTART:20261221T003000Z
+DTEND:20261221T023000Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29441-admin.fightingillini.com
-DESCRIPTION:Illini Men's Basketball vs Missouri\nTV: TBA
+DESCRIPTION:Illini Men's Basketball vs Missouri\nTV: ESPN2
 LOCATION:St. Louis\, Mo.\, Enterprise Center
 PRIORITY:3
 URL:https://admin.fightingillini.com/calendar.aspx?game_id=29441&amp;sport
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Seattle
 DTSTART:20261230T000000Z
 DTEND:20261230T020000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29442-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Seattle\nTV: B1G+
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Wisconsin
 DTSTART:20270103T010000Z
 DTEND:20270103T030000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29605-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Wisconsin\nTV: FOX
 LOCATION:Madison\, Wis
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Purdue
 DTSTART:20270106T020000Z
 DTEND:20270106T040000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29606-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Purdue\nTV: Peacock/NBCSN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -226,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Ohio State
 DTSTART:20270109T210000Z
 DTEND:20270109T230000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29607-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Ohio State\nTV: CBS
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Northwestern
 DTSTART:20270114T020000Z
 DTEND:20270114T040000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29608-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Northwestern\nTV: BTN
 LOCATION:Evanston\, Ill.
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Maryland
 DTSTART:20270116T190000Z
 DTEND:20270116T210000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29609-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Maryland\nTV: Peacock/NBCSN
 LOCATION:College Park\, Md.
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Nebraska
 DTSTART:20270120T020000Z
 DTEND:20270120T040000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29610-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Nebraska\nTV: Peacock/NBCSN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Indiana
 DTSTART:20270124T170000Z
 DTEND:20270124T190000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29611-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Indiana\nTV: CBS
 LOCATION:Bloomington\, Ind.
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs USC
 DTSTART:20270128T020000Z
 DTEND:20270128T040000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29612-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs USC\nTV: BTN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -296,11 +296,11 @@ URL:https://admin.fightingillini.com/calendar.aspx?game_id=29612&amp;sport
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs North Carolina
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-DTSTAMP:20261008T123307Z
+DTSTART:20270130T230000Z
+DTEND:20270131T010000Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29443-admin.fightingillini.com
-DESCRIPTION:Illini Men's Basketball vs North Carolina\nTV: TBA
+DESCRIPTION:Illini Men's Basketball vs North Carolina\nTV: ESPN
 LOCATION:Nashville\, Tenn.\, Bridgestone Arena
 PRIORITY:3
 URL:https://admin.fightingillini.com/calendar.aspx?game_id=29443&amp;sport
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UCLA
 DTSTART:20270203T020000Z
 DTEND:20270203T040000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29613-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UCLA\nTV: Peacock/NBCSN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Michigan State
 DTSTART:20270206T010000Z
 DTEND:20270206T030000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29614-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Michigan State\nTV: FOX
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Michigan
 DTSTART:20270210T000000Z
 DTEND:20270210T020000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29615-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Michigan\nTV: Peacock/NBCSN
 LOCATION:Ann Arbor\, Mich.
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Purdue
 DTSTART:20270213T010000Z
 DTEND:20270213T030000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29616-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Purdue\nTV: FOX
 LOCATION:West Lafayette\, Ind.
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Northwestern
 DTSTART:20270217T020000Z
 DTEND:20270217T040000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29617-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Northwestern\nTV: BTN
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Oregon
 DTSTART:20270220T220000Z
 DTEND:20270221T000000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29618-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Oregon\nTV: FOX
 LOCATION:Eugene\, Ore.
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Washington
 DTSTART:20270224T030000Z
 DTEND:20270224T050000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29619-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Washington\nTV: FS1
 LOCATION:Seattle\, Wash.
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Wisconsin
 DTSTART:20270228T183000Z
 DTEND:20270228T203000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29620-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Wisconsin\nTV: CBS
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Rutgers
 DTSTART:20270303T233000Z
 DTEND:20270304T013000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29621-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Rutgers\nTV: BTN
 LOCATION:Piscataway\, N.J.
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Iowa
 DTSTART:20270307T010000Z
 DTEND:20270307T030000Z
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29622-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Iowa\nTV: FOX
 LOCATION:Champaign\, Ill.\, State Farm Center
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Big Ten Tournament
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29444-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Big Ten Tournament
 LOCATION:Indianapolis\, Ind.\, Gainbridge Fieldhouse
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs NCAA Tournament
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261008T123307Z
+DTSTAMP:20261009T122104Z
 UID:vcal_29445-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs NCAA Tournament
 LOCATION:TBA
