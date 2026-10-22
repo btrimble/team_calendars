@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:[W] Illini Men's Basketball at Cincinnati (Exh.)
 DTSTART:20261017T210000Z
 DTEND:20261017T230000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29429-admin.fightingillini.com
 DESCRIPTION:[W] Illini Men's Basketball at Cincinnati (Exh.)\nW
 LOCATION:Cincinnati\, Ohio
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Baylor (Exh.)
 DTSTART:20261024T000000Z
 DTEND:20261024T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29430-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Baylor (Exh.)\nTV: B1G+\nStreaming 
  Video: https://www.bigtenplus.com/en-int/livestream/exhibition-baylor-at-i
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UIC (Exh.)
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29431-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UIC (Exh.)\nTV: B1G+\nStreaming Vid
  eo: https://www.bigtenplus.com/en-int/livestream/exhibition-uic-at-illinoi
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs FDU
 DTSTART:20261103T010000Z
 DTEND:20261103T030000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29432-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs FDU\nTV: BTN\nStreaming Audio: http
  s://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinois:a
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Penn
 DTSTART:20261106T013000Z
 DTEND:20261106T033000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29433-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Penn\nTV: Peacock/NBCSN\nStreaming 
  Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Texas Tech
 DTSTART:20261111T010000Z
 DTEND:20261111T030000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29434-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Texas Tech\nTV: Peacock/NBCSN\nStre
  aming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/co
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Sam Houston
 DTSTART:20261114T000000Z
 DTEND:20261114T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29435-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Sam Houston\nTV: B1G+\nStreaming Au
  dio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/ui
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Duke
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29436-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Duke\nTV: ESPN\nStreaming Audio: ht
  tps://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinois
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Eastern Illinois
 DTSTART:20261121T020000Z
 DTEND:20261121T040000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29437-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Eastern Illinois\nTV: BTN\nStreamin
  g Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/conten
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs throp
 DTSTART:20261124T010000Z
 DTEND:20261124T030000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29438-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs throp\nTV: BTN\nStreaming Audio: ht
  tps://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinois
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Western Kentucky
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29439-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Western Kentucky\nTV: FS1\nStreamin
  g Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/conten
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UConn
 DTSTART:20261205T000000Z
 DTEND:20261205T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29440-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UConn\nTV: FOX\nStreaming Audio: ht
  tps://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinois
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Minnesota
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29603-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Minnesota\nTV: Peacock/NBCSN\nStrea
  ming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/con
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Penn State
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29604-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Penn State\nTV: FS1\nStreaming Audi
  o: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uill
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Missouri
 DTSTART:20261221T003000Z
 DTEND:20261221T023000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29441-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Missouri\nTV: ESPN2\nStreaming Audi
  o: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uill
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Seattle
 DTSTART:20261230T000000Z
 DTEND:20261230T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29442-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Seattle\nTV: B1G+\nStreaming Audio:
   https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillin
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Wisconsin
 DTSTART:20270103T010000Z
 DTEND:20270103T030000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29605-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Wisconsin\nTV: FOX\nStreaming Audio
  : https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uilli
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Purdue
 DTSTART:20270106T020000Z
 DTEND:20270106T040000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29606-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Purdue\nTV: Peacock/NBCSN\nStreamin
  g Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/conten
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Ohio State
 DTSTART:20270109T210000Z
 DTEND:20270109T230000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29607-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Ohio State\nTV: CBS\nStreaming Audi
  o: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uill
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Northwestern
 DTSTART:20270114T020000Z
 DTEND:20270114T040000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29608-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Northwestern\nTV: BTN\nStreaming Au
  dio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/ui
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Maryland
 DTSTART:20270116T190000Z
 DTEND:20270116T210000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29609-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Maryland\nTV: Peacock/NBCSN\nStream
  ing Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/cont
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Nebraska
 DTSTART:20270120T020000Z
 DTEND:20270120T040000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29610-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Nebraska\nTV: Peacock/NBCSN\nStream
  ing Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/cont
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Indiana
 DTSTART:20270124T170000Z
 DTEND:20270124T190000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29611-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Indiana\nTV: CBS\nStreaming Audio: 
  https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillino
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs USC
 DTSTART:20270128T020000Z
 DTEND:20270128T040000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29612-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs USC\nTV: BTN\nStreaming Audio: http
  s://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinois:a
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs North Carolina
 DTSTART:20270130T230000Z
 DTEND:20270131T010000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29443-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs North Carolina\nTV: ESPN
 LOCATION:Nashville\, Tenn.\, Bridgestone Arena
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs UCLA
 DTSTART:20270203T020000Z
 DTEND:20270203T040000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29613-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs UCLA\nTV: Peacock/NBCSN\nStreaming 
  Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Michigan State
 DTSTART:20270206T010000Z
 DTEND:20270206T030000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29614-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Michigan State\nTV: FOX\nStreaming 
  Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Michigan
 DTSTART:20270210T000000Z
 DTEND:20270210T020000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29615-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Michigan\nTV: Peacock/NBCSN\nStream
  ing Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/cont
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Purdue
 DTSTART:20270213T010000Z
 DTEND:20270213T030000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29616-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Purdue\nTV: FOX\nStreaming Audio: h
  ttps://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinoi
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Northwestern
 DTSTART:20270217T020000Z
 DTEND:20270217T040000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29617-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Northwestern\nTV: BTN\nStreaming Au
  dio: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/ui
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Oregon
 DTSTART:20270220T220000Z
 DTEND:20270221T000000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29618-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Oregon\nTV: FOX\nStreaming Audio: h
  ttps://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinoi
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Washington
 DTSTART:20270224T030000Z
 DTEND:20270224T050000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29619-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Washington\nTV: FS1\nStreaming Audi
  o: https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uill
@@ -489,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Wisconsin
 DTSTART:20270228T183000Z
 DTEND:20270228T203000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29620-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Wisconsin\nTV: CBS\nStreaming Audio
  : https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uilli
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball at Rutgers
 DTSTART:20270303T233000Z
 DTEND:20270304T013000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29621-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball at Rutgers\nTV: BTN\nStreaming Audio: 
  https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillino
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Iowa
 DTSTART:20270307T010000Z
 DTEND:20270307T030000Z
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29622-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Iowa\nTV: FOX\nStreaming Audio: htt
  ps://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinois:
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs Big Ten Tournament
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29444-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs Big Ten Tournament\nStreaming Audio
  : https://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uilli
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Illini Men's Basketball vs NCAA Tournament
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20261021T105445Z
+DTSTAMP:20261022T105454Z
 UID:vcal_29445-admin.fightingillini.com
 DESCRIPTION:Illini Men's Basketball vs NCAA Tournament\nStreaming Audio: h
  ttps://thevarsitynetwork.com/audioapplink/source/oas-1032/content/uillinoi
